@@ -15,8 +15,8 @@ My research is focused on efficient adaptation of vision and language tools such
 
 I am looking for research interships for summer 2025.
 
-News
------- 
+<!-- News
+------  -->
 
 
 Research
@@ -100,6 +100,19 @@ EOH
   </div>
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
+    <strong>Mind in Vitro (MiV)</strong><br>
+    Myunhoe Kim, Seongwon Lee, Jaehyun Lim, Jongeun Choi, Seong Gu Kang<br>
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[IEEE Access]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> 
+  </div>
+</div>
+
+<!-- ### Driving -->
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+  <div style="width: 30%; padding-right: 8px;">
+    <img src="https://via.placeholder.com/150" alt="Quadrotor Image" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="width: 70%; font-size: 15px;">
+    <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
     <strong>Engineering Open House</strong><br>
     Myunhoe Kim, Seongwon Lee, Jaehyun Lim, Jongeun Choi, Seong Gu Kang<br>
     <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[IEEE Access]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> 
@@ -121,20 +134,48 @@ EOH
 </div>
 
 
-Experience
-------
+<!-- ### Driving -->
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+  <div style="width: 30%; padding-right: 8px;">
+    <img src="https://via.placeholder.com/150" alt="Quadrotor Image" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="width: 70%; font-size: 15px;">
+    <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
+    <strong>Robomaster AI Challenge ICRA2019</strong><br>
+    Myunhoe Kim, Seongwon Lee, Jaehyun Lim, Jongeun Choi, Seong Gu Kang<br>
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[IEEE Access]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> 
+  </div>
+</div>
+
+<!-- ### Driving -->
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+  <div style="width: 30%; padding-right: 8px;">
+    <img src="https://via.placeholder.com/150" alt="Quadrotor Image" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="width: 70%; font-size: 15px;">
+    <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
+    <strong>BMW Korea Research Competition</strong><br>
+    Myunhoe Kim, Seongwon Lee, Jaehyun Lim, Jongeun Choi, Seong Gu Kang<br>
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[IEEE Access]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> 
+  </div>
+</div>
+
+
+
+
+<!-- Experience
+------ -->
 
 
 Professional Service
 ------
-### Reviewer
-- CVPR, ECCV, ICCV, ICLR, NeurIPS, ICML, AAAI, IROS, ICRA (2021 - 2024)
+### <span style="font-size: 20px;">Reviewer</span>
+- <span style="font-size: 16px;">ICRA, IROS, WAFR (2022 - 2024)</span>
 
-### Teaching Assistant
-- **Learning to Learn (CS598)**, UIUC – Fall 2022
-- **Efficient & Predictive Vision (CS598)**, UIUC – Spring 2022
-- **Machine Learning (CS446)**, UIUC – Fall 2021
-- **Computer Vision Capstone (16-621)**, CMU – Spring 2020, 2021
+### <span style="font-size: 20px;">Teaching & Mentoring</span>
+- <span style="font-size: 16px;">**Research Program Mentor (CS)**, CS UIUC – Fall 2023, Summer 2024, Spring 2024</span>
+- <span style="font-size: 16px;">**Fluid Mechanics (ME 310)**, UIUC – Fall 2022, Spring 2024, Fall 2024</span>
+- <span style="font-size: 16px;">**Mathematical Methods (TAM 541)**, UIUC – Fall 2021</span>
 
 Contact
 ------ 
