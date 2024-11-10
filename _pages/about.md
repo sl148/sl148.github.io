@@ -25,7 +25,7 @@ Research
   <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Lazy-DaSH Image" style="max-width: 100%; height: auto;">
   </div>
-  <div style="width: 60%;">
+  <div style="width: 70%;">
     <p>This section describes Lazy-DaSH, detailing the project, its goals, and any key results or publications.</p>
     <strong>SceneCraft: Layout-Guided 3D Scene Generation</strong><br>
     Xiuyu Yang<sup>*</sup>, <strong>Yunze Man<sup>*</sup></strong>, Junkun Chen, Yu-Xiong Wang<br>
@@ -38,7 +38,7 @@ Research
   <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Reconfigurable Factory Image" style="max-width: 100%; height: auto;">
   </div>
-  <div style="width: 60%;">
+  <div style="width: 70%;">
     <p>This section describes the Reconfigurable Factory project. Include information on how it enables flexible manufacturing and any specific methodologies or technologies used.</p>
     <strong>SceneCraft: Layout-Guided 3D Scene Generation</strong><br>
     Xiuyu Yang<sup>*</sup>, <strong>Yunze Man<sup>*</sup></strong>, Junkun Chen, Yu-Xiong Wang<br>
@@ -51,7 +51,7 @@ Research
   <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Driving Image" style="max-width: 100%; height: auto;">
   </div>
-  <div style="width: 60%;">
+  <div style="width: 70%;">
     <p>This section provides an overview of the driving research. Describe any experiments, models, or insights gained in this area.</p>
     <strong>SceneCraft: Layout-Guided 3D Scene Generation</strong><br>
     Xiuyu Yang<sup>*</sup>, <strong>Yunze Man<sup>*</sup></strong>, Junkun Chen, Yu-Xiong Wang<br>
@@ -64,7 +64,7 @@ Research
   <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Quadrotor Image" style="max-width: 100%; height: auto;">
   </div>
-  <div style="width: 60%;">
+  <div style="width: 70%;">
     <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p>
     <strong>SceneCraft: Layout-Guided 3D Scene Generation</strong><br>
     Xiuyu Yang<sup>*</sup>, <strong>Yunze Man<sup>*</sup></strong>, Junkun Chen, Yu-Xiong Wang<br>
@@ -77,7 +77,7 @@ Research
   <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Helicopter Image" style="max-width: 100%; height: auto;">
   </div>
-  <div style="width: 60%;">
+  <div style="width: 70%;">
     <p>This section covers your research on helicopters, discussing the objectives, methods, and significant outcomes of the study.</p>
     <strong>SceneCraft: Layout-Guided 3D Scene Generation</strong><br>
     Xiuyu Yang<sup>*</sup>, <strong>Yunze Man<sup>*</sup></strong>, Junkun Chen, Yu-Xiong Wang<br>
@@ -96,7 +96,7 @@ EOH
   <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Skills Image" style="max-width: 100%; height: auto;">
   </div>
-  <div style="width: 60%;">
+  <div style="width: 70%;">
     <p>This is the description for the skills section. Here you can outline your technical skills, tools, and programming languages.</p>
   </div>
 </div>
