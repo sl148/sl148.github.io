@@ -167,14 +167,14 @@ Projects
 
 Professional Service
 ------
-- <span style="font-size: 17px;">**Reviewer**</span>
-  - <span style="font-size: 15px;">CVPR, ECCV, ICCV, ICLR, NeurIPS, ICML, AAAI, IROS, ICRA (2021 - 2024)</span>
+- <span style="font-size: 16px;">**Reviewer**</span>
+  - <span style="font-size: 15px;">ICRA, IROS, WAFR (2022 - 2024)</span>
 
-- <span style="font-size: 17px;">**Teaching Assistant**</span>
-  - <span style="font-size: 15px;">**Learning to Learn (CS598)**, UIUC – Fall 2022</span>
-  - <span style="font-size: 15px;">**Efficient & Predictive Vision (CS598)**, UIUC – Spring 2022</span>
-  - <span style="font-size: 15px;">**Machine Learning (CS446)**, UIUC – Fall 2021</span>
-  - <span style="font-size: 15px;">**Computer Vision Capstone (16-621)**, CMU – Spring 2020, 2021</span>
+- <span style="font-size: 16px;">**Teaching & Mentoring**</span>
+  - <span style="font-size: 20px;">**Teaching Assistant**</span>
+  - <span style="font-size: 15px;">**Research Program Mentor (CS)**, UIUC – Fall 2023, Summer 2024, Spring 2024</span>
+  - <span style="font-size: 15px;">**Fluid Mechanics (ME 310)**, UIUC – Fall 2022, Spring 2024, Fall 2024</span>
+  - <span style="font-size: 15px;">**Mathematical Methods (TAM 541)**, UIUC – Fall 2021</span>
 
 Contact
 ------ 
