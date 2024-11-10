@@ -20,8 +20,7 @@ News
 
 Research
 ------
-
-### Lazy-DaSH
+<!-- ### Lazy-DaSH -->
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
   <div style="width: 40%; padding-right: 20px;">
     <img src="https://via.placeholder.com/150" alt="Lazy-DaSH Image" style="max-width: 100%; height: auto;">
@@ -34,7 +33,7 @@ Research
   </div>
 </div>
 
-### Reconfigurable Factory
+<!-- ### Reconfigurable Factory -->
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
   <div style="width: 40%; padding-right: 20px;">
     <img src="https://via.placeholder.com/150" alt="Reconfigurable Factory Image" style="max-width: 100%; height: auto;">
@@ -47,7 +46,7 @@ Research
   </div>
 </div>
 
-### Driving
+<!-- ### Driving -->
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
   <div style="width: 40%; padding-right: 20px;">
     <img src="https://via.placeholder.com/150" alt="Driving Image" style="max-width: 100%; height: auto;">
@@ -60,7 +59,7 @@ Research
   </div>
 </div>
 
-### Quadrotor
+<!-- ### Quadrotor -->
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
   <div style="width: 40%; padding-right: 20px;">
     <img src="https://via.placeholder.com/150" alt="Quadrotor Image" style="max-width: 100%; height: auto;">
@@ -73,7 +72,7 @@ Research
   </div>
 </div>
 
-### Helicopter
+<!-- ### Helicopter -->
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
   <div style="width: 40%; padding-right: 20px;">
     <img src="https://via.placeholder.com/150" alt="Helicopter Image" style="max-width: 100%; height: auto;">
