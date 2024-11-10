@@ -26,11 +26,11 @@ Research
   <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Lazy-DaSH Image" style="max-width: 100%; height: auto;">
   </div>
-  <div style="width: 70%; font-size: 10px;">
+  <div style="width: 70%; font-size: 15px;">
     <!-- <p>This section describes Lazy-DaSH, detailing the project, its goals, and any key results or publications.</p> -->
     <strong>Lazy-DaSH: Lazy Approach of Hypergraph-based Multi-robt Task and Motion Planning</strong><br>
     Seongwon Lee, James Motes, Isaac Ngui, Marco Morales, Nancy M. Amato<br>
-    [ICRA@40](https://neurips.cc/) / [Paper](https://example.com/paper-link) / [Poster](https://example.com/project-link)
+    [ICRA@40](https://icra40.ieee.org/) / [Paper](https://example.com/paper-link) / [Poster](https://example.com/project-link)
   </div>
 </div>
 
@@ -39,7 +39,7 @@ Research
   <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Reconfigurable Factory Image" style="max-width: 100%; height: auto;">
   </div>
-  <div style="width: 70%; font-size: 10px;">
+  <div style="width: 70%; font-size: 15px;">
     <!-- <p>This section describes the Reconfigurable Factory project. Include information on how it enables flexible manufacturing and any specific methodologies or technologies used.</p> -->
     <strong>A hierarchical Approach to Workstation-based Task Allocation and Motion Planning</strong><br>
     Seongwon Lee, James Motes, Isaac Ngui, Marco Morales, Nancy M. Amato<br>
@@ -52,7 +52,7 @@ Research
   <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Driving Image" style="max-width: 100%; height: auto;">
   </div>
-  <div style="width: 70%; font-size: 10px;">
+  <div style="width: 70%; font-size: 15px;">
     <!-- <p>This section provides an overview of the driving research. Describe any experiments, models, or insights gained in this area.</p> -->
     <strong>Output Feedback Control Design for Quadrotors Using Recursive Least Square Dynamic Inversion</strong><br>
     Seongwon Lee, Joohwan Seo, Connor J. Boss, Joonho Lee, Jongeun Choi<br>
@@ -65,7 +65,7 @@ Research
   <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Driving Image" style="max-width: 100%; height: auto;">
   </div>
-  <div style="width: 70%; font-size: 10px;">
+  <div style="width: 70%; font-size: 15px;">
     <!-- <p>This section provides an overview of the driving research. Describe any experiments, models, or insights gained in this area.</p> -->
     <strong>Nonaffine helicopter control design and implementation based on a robust explicit nonlinear model predictive control</strong><br>
     Joohwan Seo, Seongwon Lee, Joonho Lee, Jongeun Choi<br>
@@ -78,7 +78,7 @@ Research
   <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Quadrotor Image" style="max-width: 100%; height: auto;">
   </div>
-  <div style="width: 70%; font-size: 10px;">
+  <div style="width: 70%; font-size: 15px;">
     <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
     <strong>Unexpected Collision Avoidance Driving Strategy Using Deep Reinforcement Learning</strong><br>
     Myunhoe Kim, Seongwon Lee, Jaehyun Lim, Jongeun Choi, Seong Gu Kang<br>
@@ -91,7 +91,7 @@ Research
   <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Helicopter Image" style="max-width: 100%; height: auto;">
   </div>
-  <div style="width: 70%; font-size: 10px;">
+  <div style="width: 70%; font-size: 15px;">
     <!-- <p>This section covers your research on helicopters, discussing the objectives, methods, and significant outcomes of the study.</p> -->
     <strong>SceneCraft: Layout-Guided 3D Scene Generation</strong><br>
     Xiuyu Yang, <strong>Yunze Man</strong>, Junkun Chen, Yu-Xiong Wang<br>
