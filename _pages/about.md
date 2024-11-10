@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Mechanical Engineering at University of Illinois at Urbana-Champaign. I am co-advised by Professors Nancy M. Amato and Geir E. Dullerud. 
-Previously, I received my bachelor's  degrees in Mechanical Engineering advised by Professor Jongeun Choi from Yonsei University in Seoul, Korea in 2021. 
+I am a Ph.D. student in Mechanical Engineering at the University of Illinois at Urbana-Champaign, co-advised by Professors Nancy M. Amato and Geir E. Dullerud. I earned my bachelor’s degree in Mechanical Engineering under the guidance of Professor Jongeun Choi from Yonsei University in Seoul, Korea, in 2021.
 
 My research is focused on efficient adaptation of vision and language tools such as foundation models for new and existing downstream tasks. During my undergard, I did research on using evolutionary algorithms for cyber security.
 
@@ -171,7 +170,6 @@ Professional Service
   - <span style="font-size: 15px;">ICRA, IROS, WAFR (2022 - 2024)</span>
 
 - <span style="font-size: 16px;">**Teaching & Mentoring**</span>
-  - <span style="font-size: 20px;">**Teaching Assistant**</span>
   - <span style="font-size: 15px;">**Research Program Mentor (CS)**, UIUC – Fall 2023, Summer 2024, Spring 2024</span>
   - <span style="font-size: 15px;">**Fluid Mechanics (ME 310)**, UIUC – Fall 2022, Spring 2024, Fall 2024</span>
   - <span style="font-size: 15px;">**Mathematical Methods (TAM 541)**, UIUC – Fall 2021</span>
