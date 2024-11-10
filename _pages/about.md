@@ -30,7 +30,7 @@ Research
     <!-- <p>This section describes Lazy-DaSH, detailing the project, its goals, and any key results or publications.</p> -->
     <strong>Lazy-DaSH: Lazy Approach of Hypergraph-based Multi-robt Task and Motion Planning</strong><br>
     Seongwon Lee, James Motes, Isaac Ngui, Marco Morales, Nancy M. Amato<br>
-    [ICRA@40](https://icra40.ieee.org/) / [Paper](https://example.com/paper-link) / [Poster](https://example.com/project-link)
+    <a href="https://icra40.ieee.org/">[ICRA@40]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> / <a href="https://icra40.ieee.org/">[Poster]</a>
   </div>
 </div>
 
@@ -43,11 +43,11 @@ Research
     <!-- <p>This section describes the Reconfigurable Factory project. Include information on how it enables flexible manufacturing and any specific methodologies or technologies used.</p> -->
     <strong>A hierarchical Approach to Workstation-based Task Allocation and Motion Planning</strong><br>
     Seongwon Lee, James Motes, Isaac Ngui, Marco Morales, Nancy M. Amato<br>
-    [IROS 2023 Workshop](https://neurips.cc/) / [Paper](https://example.com/paper-link) / [Project](https://example.com/project-link)
+    <a href="https://ieee-iros.org/">[IROS 2023 Workshop]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> / <a href="https://icra40.ieee.org/">[Poster]</a>
   </div>
 </div>
 
-<!-- ### Driving -->
+<!-- ### Quadrotor -->
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Driving Image" style="max-width: 100%; height: auto;">
@@ -56,11 +56,11 @@ Research
     <!-- <p>This section provides an overview of the driving research. Describe any experiments, models, or insights gained in this area.</p> -->
     <strong>Output Feedback Control Design for Quadrotors Using Recursive Least Square Dynamic Inversion</strong><br>
     Seongwon Lee, Joohwan Seo, Connor J. Boss, Joonho Lee, Jongeun Choi<br>
-    [NeurIPS 2024](https://neurips.cc/) / [Paper](https://example.com/paper-link) / [Project](https://example.com/project-link)
+    <a href="https://www.sciencedirect.com/journal/mechatronics">[Elsevir Mechatronics]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> / <a href="">[Youtube]</a>
   </div>
 </div>
 
-<!-- ### Driving -->
+<!-- ### Helicopter -->
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Driving Image" style="max-width: 100%; height: auto;">
@@ -69,11 +69,11 @@ Research
     <!-- <p>This section provides an overview of the driving research. Describe any experiments, models, or insights gained in this area.</p> -->
     <strong>Nonaffine helicopter control design and implementation based on a robust explicit nonlinear model predictive control</strong><br>
     Joohwan Seo, Seongwon Lee, Joonho Lee, Jongeun Choi<br>
-    [NeurIPS 2024](https://neurips.cc/) / [Paper](https://example.com/paper-link) / [Project](https://example.com/project-link)
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87">[IEEE Transactions on Control Systems Technology]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> 
   </div>
 </div>
 
-<!-- ### Quadrotor -->
+<!-- ### Driving -->
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Quadrotor Image" style="max-width: 100%; height: auto;">
@@ -82,20 +82,7 @@ Research
     <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
     <strong>Unexpected Collision Avoidance Driving Strategy Using Deep Reinforcement Learning</strong><br>
     Myunhoe Kim, Seongwon Lee, Jaehyun Lim, Jongeun Choi, Seong Gu Kang<br>
-    [NeurIPS 2024](https://neurips.cc/) / [Paper](https://example.com/paper-link) / [Project](https://example.com/project-link)
-  </div>
-</div>
-
-<!-- ### Helicopter -->
-<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
-  <div style="width: 30%; padding-right: 8px;">
-    <img src="https://via.placeholder.com/150" alt="Helicopter Image" style="max-width: 100%; height: auto;">
-  </div>
-  <div style="width: 70%; font-size: 15px;">
-    <!-- <p>This section covers your research on helicopters, discussing the objectives, methods, and significant outcomes of the study.</p> -->
-    <strong>SceneCraft: Layout-Guided 3D Scene Generation</strong><br>
-    Xiuyu Yang, <strong>Yunze Man</strong>, Junkun Chen, Yu-Xiong Wang<br>
-    [NeurIPS 2024](https://neurips.cc/) / [Paper](https://example.com/paper-link) / [Project](https://example.com/project-link)
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[IEEE Access]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> 
   </div>
 </div>
 
@@ -106,12 +93,30 @@ Projects
 Course Project
 EOH
 
+<!-- ### Driving -->
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 30%; padding-right: 8px;">
-    <img src="https://via.placeholder.com/150" alt="Skills Image" style="max-width: 100%; height: auto;">
+    <img src="https://via.placeholder.com/150" alt="Quadrotor Image" style="max-width: 100%; height: auto;">
   </div>
-  <div style="width: 70%;">
-    <p>This is the description for the skills section. Here you can outline your technical skills, tools, and programming languages.</p>
+  <div style="width: 70%; font-size: 15px;">
+    <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
+    <strong>Engineering Open House</strong><br>
+    Myunhoe Kim, Seongwon Lee, Jaehyun Lim, Jongeun Choi, Seong Gu Kang<br>
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[IEEE Access]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> 
+  </div>
+</div>
+
+
+<!-- ### Driving -->
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+  <div style="width: 30%; padding-right: 8px;">
+    <img src="https://via.placeholder.com/150" alt="Quadrotor Image" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="width: 70%; font-size: 15px;">
+    <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
+    <strong>Unexpected Collision Avoidance Driving Strategy Using Deep Reinforcement Learning</strong><br>
+    Myunhoe Kim, Seongwon Lee, Jaehyun Lim, Jongeun Choi, Seong Gu Kang<br>
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[IEEE Access]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> 
   </div>
 </div>
 
@@ -122,14 +127,14 @@ Experience
 
 Professional Service
 ------
-Reviewer for CVPR, ECCV, ICCV, ICLR, NeurIPS, ICML, AAAI, IROS, ICRA2021 - 2024
-Teaching Assisant
-Learining to Learn (CS598), UIUCFall 2022
-Efficient & Predictive Vision (CS598), UIUCSpring 2022
-Machine Learning (CS446), UIUCFall 2021
-Computer Vision Capstone (16-621), CMUSpring 2020, 2021
+### Reviewer
+- CVPR, ECCV, ICCV, ICLR, NeurIPS, ICML, AAAI, IROS, ICRA (2021 - 2024)
 
-
+### Teaching Assistant
+- **Learning to Learn (CS598)**, UIUC – Fall 2022
+- **Efficient & Predictive Vision (CS598)**, UIUC – Spring 2022
+- **Machine Learning (CS446)**, UIUC – Fall 2021
+- **Computer Vision Capstone (16-621)**, CMU – Spring 2020, 2021
 
 Contact
 ------ 
