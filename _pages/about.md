@@ -7,9 +7,26 @@ redirect_from:
   - /about.html
 ---
 
+I am a Ph.D. student in Mechanical Engineering at University of Illinois at Urbana-Champaign. I am co-advised by Professors Nancy M. Amato and Geir E. Dullerud. 
+Previously, I received my bachelor's  degrees in Mechanical Engineering advised by Professor Jongeun Choi from Yonsei University in Seoul, Korea in 2021. 
+
+My research is focused on efficient adaptation of vision and language tools such as foundation models for new and existing downstream tasks. During my undergard, I did research on using evolutionary algorithms for cyber security.
+
+
+I am looking for research interships for summer 2025.
+
+News
+------ 
+
+
+
 Research
 ------
-
+Lazy-DaSH
+Reconfigurable Factory
+Driving
+Quadrotor
+Helicopter
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
   <div style="width: 40%; padding-right: 20px;">
     <img src="https://via.placeholder.com/150" alt="Research Image" style="max-width: 100%; height: auto;">
@@ -19,8 +36,11 @@ Research
   </div>
 </div>
 
-Skills
+
+Projects
 ------
+Course Project
+EOH
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
   <div style="width: 40%; padding-right: 20px;">
@@ -31,6 +51,22 @@ Skills
   </div>
 </div>
 
-For more info
+
+Experience
 ------
+
+
+Professional Service
+------
+Reviewer for CVPR, ECCV, ICCV, ICLR, NeurIPS, ICML, AAAI, IROS, ICRA2021 - 2024
+Teaching Assisant
+Learining to Learn (CS598), UIUCFall 2022
+Efficient & Predictive Vision (CS598), UIUCSpring 2022
+Machine Learning (CS446), UIUCFall 2021
+Computer Vision Capstone (16-621), CMUSpring 2020, 2021
+
+
+
+Contact
+------ 
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
