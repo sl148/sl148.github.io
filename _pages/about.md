@@ -12,8 +12,7 @@ Research
 
 <div class="two-column">
   <div class="column-left">
-    <!-- Insert dummy image here -->
-    ![Research Image](https://via.placeholder.com/150)
+    <img src="https://via.placeholder.com/150" alt="Research Image">
   </div>
   <div class="column-right">
     <p>This is the description for the research section. Here you can add details about your research work, publications, or ongoing projects.</p>
@@ -25,8 +24,7 @@ Skills
 
 <div class="two-column">
   <div class="column-left">
-    <!-- Insert dummy image here -->
-    ![Skills Image](https://via.placeholder.com/150)
+    <img src="https://via.placeholder.com/150" alt="Skills Image">
   </div>
   <div class="column-right">
     <p>This is the description for the skills section. Here you can outline your technical skills, tools, and programming languages.</p>
