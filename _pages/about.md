@@ -10,11 +10,11 @@ redirect_from:
 Research
 ------
 
-<div class="two-column">
-  <div class="column-left">
-    <img src="https://via.placeholder.com/150" alt="Research Image">
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
+  <div style="width: 40%; padding-right: 20px;">
+    <img src="https://via.placeholder.com/150" alt="Research Image" style="max-width: 100%; height: auto;">
   </div>
-  <div class="column-right">
+  <div style="width: 60%;">
     <p>This is the description for the research section. Here you can add details about your research work, publications, or ongoing projects.</p>
   </div>
 </div>
@@ -22,11 +22,11 @@ Research
 Skills
 ------
 
-<div class="two-column">
-  <div class="column-left">
-    <img src="https://via.placeholder.com/150" alt="Skills Image">
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
+  <div style="width: 40%; padding-right: 20px;">
+    <img src="https://via.placeholder.com/150" alt="Skills Image" style="max-width: 100%; height: auto;">
   </div>
-  <div class="column-right">
+  <div style="width: 60%;">
     <p>This is the description for the skills section. Here you can outline your technical skills, tools, and programming languages.</p>
   </div>
 </div>
