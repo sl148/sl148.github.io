@@ -21,8 +21,8 @@ News
 Research
 ------
 <!-- ### Lazy-DaSH -->
-<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 40%; padding-right: 20px;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+  <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Lazy-DaSH Image" style="max-width: 100%; height: auto;">
   </div>
   <div style="width: 60%;">
@@ -34,8 +34,8 @@ Research
 </div>
 
 <!-- ### Reconfigurable Factory -->
-<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 40%; padding-right: 20px;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+  <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Reconfigurable Factory Image" style="max-width: 100%; height: auto;">
   </div>
   <div style="width: 60%;">
@@ -47,8 +47,8 @@ Research
 </div>
 
 <!-- ### Driving -->
-<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 40%; padding-right: 20px;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+  <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Driving Image" style="max-width: 100%; height: auto;">
   </div>
   <div style="width: 60%;">
@@ -60,8 +60,8 @@ Research
 </div>
 
 <!-- ### Quadrotor -->
-<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 40%; padding-right: 20px;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+  <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Quadrotor Image" style="max-width: 100%; height: auto;">
   </div>
   <div style="width: 60%;">
@@ -73,8 +73,8 @@ Research
 </div>
 
 <!-- ### Helicopter -->
-<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 40%; padding-right: 20px;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+  <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Helicopter Image" style="max-width: 100%; height: auto;">
   </div>
   <div style="width: 60%;">
@@ -92,8 +92,8 @@ Projects
 Course Project
 EOH
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 40%; padding-right: 20px;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+  <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Skills Image" style="max-width: 100%; height: auto;">
   </div>
   <div style="width: 60%;">

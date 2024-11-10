@@ -6,12 +6,12 @@
   }
   
   .column-left {
-    width: 40%; /* Adjust width as needed */
+    width: 30%; /* Adjust width as needed */
     padding-right: 8px;
   }
   
   .column-right {
-    width: 60%; /* Adjust width as needed */
+    width: 70%; /* Adjust width as needed */
   }
   
   .column-left img {
