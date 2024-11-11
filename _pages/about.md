@@ -97,7 +97,7 @@ Projects
 <!-- ### Driving -->
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 30%; padding-right: 8px;">
-    <img src="../images/MiV.png" alt="Quadrotor Image" style="max-width: 100%; height: auto;">
+    <img src="../images/MiV.gif" alt="Quadrotor Image" style="max-width: 100%; height: auto;">
   </div>
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
