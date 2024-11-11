@@ -49,7 +49,7 @@ Research
 <!-- ### Quadrotor -->
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 30%; padding-right: 8px;">
-    <img src="https://via.placeholder.com/150" alt="Driving Image" style="max-width: 100%; height: auto;">
+    <img src="../images/quadrotor.gif" alt="Driving Image" style="max-width: 100%; height: auto;">
   </div>
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>This section provides an overview of the driving research. Describe any experiments, models, or insights gained in this area.</p> -->
@@ -62,11 +62,11 @@ Research
 <!-- ### Helicopter -->
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 30%; padding-right: 8px;">
-    <!-- <img src="https://via.placeholder.com/150" alt="Driving Image" style="max-width: 100%; height: auto;"> -->
-    <video controls style="max-width: 100%; height: auto;">
+    <img src="../images/helicoptor.gif" alt="Driving Image" style="max-width: 100%; height: auto;">
+    <!-- <video controls style="max-width: 100%; height: auto;">
       <source src="../images/helicopter.mp4" type="video/mp4">
       Your browser does not support the video tag.
-    </video>
+    </video> -->
   </div>
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>This section provides an overview of the driving research. Describe any experiments, models, or insights gained in this area.</p> -->
