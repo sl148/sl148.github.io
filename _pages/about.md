@@ -42,7 +42,7 @@ Research
     <!-- <p>This section describes the Reconfigurable Factory project. Include information on how it enables flexible manufacturing and any specific methodologies or technologies used.</p> -->
     <strong>A hierarchical Approach to Workstation-based Task Allocation and Motion Planning</strong><br>
     Seongwon Lee, James Motes, Isaac Ngui, Marco Morales, Nancy M. Amato<br>
-    <a href="https://ieee-iros.org/">[IROS 2023 Workshop]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> / <a href="https://icra40.ieee.org/">[Poster]</a>
+    <a href="https://ieee-iros.org/">[IROS 2023 Workshop]</a> / <a href="file/RAFF_2023_Submission.pdf">[Paper]</a> / <a href="file/IROS2023Poster.pdf">[Poster]</a>
   </div>
 </div>
 
