@@ -141,9 +141,17 @@ Projects
     <img src="../images/Robomaster.gif" alt="Quadrotor Image" style="max-width: 100%; height: auto;">
   </div>
   <div style="width: 70%; font-size: 15px;">
-    <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
     <strong>Robomaster AI Challenge ICRA2019</strong><br>
-    Myunhoe Kim, Seongwon Lee, Jaehyun Lim, Jongeun Choi, Seong Gu Kang<br>
+    <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
+      <div style="display: flex; align-items: center;">
+        <img src="../icons/ros.png" alt="ROS Icon" style="width: 18px; height: 18px; margin-right: 5px;">
+        <span>ROS</span>
+      </div>
+      <div style="display: flex; align-items: center;">
+        <img src="../icons/python.png" alt="Python Icon" style="width: 18px; height: 18px; margin-right: 5px;">
+        <span>Python</span>
+      </div>
+    </div>
     <a href="https://www.robomaster.com/en-US">[Robomaster AI Challenge]</a> / <a href="https://www.youtube.com/watch?v=oJdBfSafWjM">[Youtube]</a> 
   </div>
 </div>
