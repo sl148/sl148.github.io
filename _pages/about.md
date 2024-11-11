@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in [Mechanical Science and Engineering](https://mechse.illinois.edu/) Department at the [University of Illinois at Urbana-Champaign](https://www.uiuc.edu/), co-advised by Professors [Nancy M. Amato](https://siebelschool.illinois.edu/about/people/all-faculty/namato) and [Geir E. Dullerud](https://mechse.illinois.edu/people/profile/dullerud). 
+I am a Ph.D. student in [Mechanical Science and Engineering](https://mechse.illinois.edu/) Department at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), co-advised by Professors [Nancy M. Amato](https://siebelschool.illinois.edu/about/people/all-faculty/namato) and [Geir E. Dullerud](https://mechse.illinois.edu/people/profile/dullerud). 
 
 My research focuses on developing efficient <strong>multi-robot task and motion planning</strong> algorithms, enabling rapid adaptation to constraint-heavy environments. I have extensive experience integrating hardware and software for impactful real-world deployments.
 
