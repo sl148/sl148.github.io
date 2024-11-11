@@ -8,10 +8,6 @@ main:
   # - title: "Home"
   #   url: /_pages/about.md
 
-  - title: "CV"
-    url: /files/CV.pdf
-
-
   # - title: "Talks"
   #   url: /talks/    
 
@@ -29,3 +25,7 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+
+  - title: "CV"
+    url: /files/CV.pdf
+
