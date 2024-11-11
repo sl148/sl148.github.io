@@ -102,10 +102,10 @@ Projects
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
     <strong>Mind in Vitro (MiV)</strong><br>
-    Developing automation system for a biology lab, funded by National Science Foundation (NSF)<br>
+    Developing an robotics automation system for a biology lab, funded by National Science Foundation (NSF)<br>
     <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
       <div style="display: flex; align-items: center;">
-        <img src="../icons/ros.png" alt="ROS Icon" style="width: 30px; height: 18px; margin-right: 5px;">
+        <img src="../icons/ros.png" alt="ROS Icon" style="width: 40px; height: 18px; margin-right: 5px;">
         <span>ROS</span>
       </div>
       <div style="display: flex; align-items: center;">
@@ -131,7 +131,7 @@ Projects
     <strong>Engineering Open House</strong><br>
     <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
       <div style="display: flex; align-items: center;">
-        <img src="../icons/ros.png" alt="ROS Icon" style="width: 30px; height: 18px; margin-right: 5px;">
+        <img src="../icons/ros.png" alt="ROS Icon" style="width: 40px; height: 18px; margin-right: 5px;">
         <span>ROS</span>
       </div>
       <div style="display: flex; align-items: center;">
@@ -158,11 +158,11 @@ Projects
     <strong>Course Project: Handoff Operation for Mobile Manipulators</strong><br>
     <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
       <div style="display: flex; align-items: center;">
-        <img src="../icons/ros.png" alt="ROS Icon" style="width: 30px; height: 18px; margin-right: 5px;">
+        <img src="../icons/ros.png" alt="ROS Icon" style="width: 40px; height: 18px; margin-right: 5px;">
         <span>ROS</span>
       </div>
       <div style="display: flex; align-items: center;">
-        <img src="../icons/gazebo.png" alt="Python Icon" style="width: 18px; height: 18px; margin-right: 5px;">
+        <img src="../icons/gazebo.png" alt="Python Icon" style="width: 14px; height: 18px; margin-right: 5px;">
         <span>Gazebo</span>
       </div>
       <div style="display: flex; align-items: center;">
@@ -184,11 +184,11 @@ Projects
     <strong>Robomaster AI Challenge ICRA2019</strong><br>
     <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
       <div style="display: flex; align-items: center;">
-        <img src="../icons/ros.png" alt="ROS Icon" style="width: 30px; height: 18px; margin-right: 5px;">
+        <img src="../icons/ros.png" alt="ROS Icon" style="width: 40px; height: 18px; margin-right: 5px;">
         <span>ROS</span>
       </div>
       <div style="display: flex; align-items: center;">
-        <img src="../icons/gazebo.png" alt="Python Icon" style="width: 18px; height: 18px; margin-right: 5px;">
+        <img src="../icons/gazebo.png" alt="Python Icon" style="width: 14px; height: 18px; margin-right: 5px;">
         <span>Gazebo</span>
       </div>
       <div style="display: flex; align-items: center;">
