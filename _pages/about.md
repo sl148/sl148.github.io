@@ -29,7 +29,7 @@ Research
     <!-- <p>This section describes Lazy-DaSH, detailing the project, its goals, and any key results or publications.</p> -->
     <strong>Lazy-DaSH: Lazy Approach of Hypergraph-based Multi-robt Task and Motion Planning</strong><br>
     Seongwon Lee, James Motes, Isaac Ngui, Marco Morales, Nancy M. Amato<br>
-    <a href="https://icra40.ieee.org/">[ICRA@40]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> / <a href="https://icra40.ieee.org/">[Poster]</a>
+    <a href="https://icra40.ieee.org/">[ICRA@40]</a> / <a href="../files/ICRA@40 Lazy-DaSH Lazy Approach for Hypergraph-based Multi-robot Task and Motion Planning Final.pdf">[Paper]</a> / <a href="../files/ICRA@40_poster.pdf">[Poster]</a>
   </div>
 </div>
 
@@ -55,7 +55,7 @@ Research
     <!-- <p>This section provides an overview of the driving research. Describe any experiments, models, or insights gained in this area.</p> -->
     <strong>Output Feedback Control Design for Quadrotors Using Recursive Least Square Dynamic Inversion</strong><br>
     Seongwon Lee, Joohwan Seo, Connor J. Boss, Joonho Lee, Jongeun Choi<br>
-    <a href="https://www.sciencedirect.com/journal/mechatronics">[Elsevir Mechatronics]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> / <a href="">[Youtube]</a>
+    <a href="https://www.sciencedirect.com/journal/mechatronics">[Elsevir Mechatronics]</a> / <a href="../files/Outputfeedbackcontroldesignforquadrotorusingrecursiveleast square dynamicinversion.pdf">[Paper]</a> / <a href="https://youtu.be/ltcx1X3WuIU">[Youtube]</a>
   </div>
 </div>
 
@@ -68,7 +68,7 @@ Research
     <!-- <p>This section provides an overview of the driving research. Describe any experiments, models, or insights gained in this area.</p> -->
     <strong>Nonaffine helicopter control design and implementation based on a robust explicit nonlinear model predictive control</strong><br>
     Joohwan Seo, Seongwon Lee, Joonho Lee, Jongeun Choi<br>
-    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87">[IEEE Transactions on Control Systems Technology]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> 
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87">[IEEE Transactions on Control Systems Technology]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> / <a href="https://www.youtube.com/watch?v=aLQ-Ar9PMv4">[Youtube]</a>
   </div>
 </div>
 
