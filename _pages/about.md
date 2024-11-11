@@ -102,7 +102,7 @@ Projects
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
     <strong>Mind in Vitro (MiV)</strong><br>
-    Myunhoe Kim, Seongwon Lee, Jaehyun Lim, Jongeun Choi, Seong Gu Kang<br>
+    Developing automation system for a biology lab, funded by National Science Foundation (NSF)<br>
     <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[IEEE Access]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> 
   </div>
 </div>
@@ -149,17 +149,16 @@ Projects
 </div>
 
 <!-- ### Driving -->
-<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+<!-- <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 30%; padding-right: 8px;">
     <img src="https://via.placeholder.com/150" alt="Quadrotor Image" style="max-width: 100%; height: auto;">
   </div>
   <div style="width: 70%; font-size: 15px;">
-    <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
     <strong>BMW Korea Research Competition</strong><br>
     Myunhoe Kim, Seongwon Lee, Jaehyun Lim, Jongeun Choi, Seong Gu Kang<br>
     <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[IEEE Access]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> 
   </div>
-</div>
+</div> -->
 
 
 
