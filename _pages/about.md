@@ -62,13 +62,17 @@ Research
 <!-- ### Helicopter -->
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 30%; padding-right: 8px;">
-    <img src="https://via.placeholder.com/150" alt="Driving Image" style="max-width: 100%; height: auto;">
+    <!-- <img src="https://via.placeholder.com/150" alt="Driving Image" style="max-width: 100%; height: auto;"> -->
+    <video controls style="max-width: 100%; height: auto;">
+      <source src="../images/helicopter.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
   </div>
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>This section provides an overview of the driving research. Describe any experiments, models, or insights gained in this area.</p> -->
     <strong>Nonaffine helicopter control design and implementation based on a robust explicit nonlinear model predictive control</strong><br>
     Joohwan Seo, Seongwon Lee, Joonho Lee, Jongeun Choi<br>
-    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87">[IEEE Transactions on Control Systems Technology]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> / <a href="https://www.youtube.com/watch?v=aLQ-Ar9PMv4">[Youtube]</a>
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87">[IEEE Transactions on Control Systems Technology]</a> / <a href="../files/NonaffineHelicopterControlDesignandImplementationBasedonaRobustExplicitNonlinearModelPredictiveControl.pdf">[Paper]</a> / <a href="https://www.youtube.com/watch?v=aLQ-Ar9PMv4">[Youtube]</a>
   </div>
 </div>
 
@@ -81,7 +85,7 @@ Research
     <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
     <strong>Unexpected Collision Avoidance Driving Strategy Using Deep Reinforcement Learning</strong><br>
     Myunhoe Kim, Seongwon Lee, Jaehyun Lim, Jongeun Choi, Seong Gu Kang<br>
-    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[IEEE Access]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> 
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[IEEE Access]</a> / <a href="../files/UnexpectedCollisionAvoidanceDrivingStrategyUsingDeepReinforcementLearning.pdf">[Paper]</a> 
   </div>
 </div>
 
