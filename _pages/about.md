@@ -36,13 +36,13 @@ Research
 <!-- ### Reconfigurable Factory -->
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 30%; padding-right: 8px;">
-    <img src="https://via.placeholder.com/150" alt="Reconfigurable Factory Image" style="max-width: 100%; height: auto;">
+    <img src="../images/Task_assignment.png" alt="Reconfigurable Factory Image" style="max-width: 100%; height: auto;">
   </div>
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>This section describes the Reconfigurable Factory project. Include information on how it enables flexible manufacturing and any specific methodologies or technologies used.</p> -->
     <strong>A hierarchical Approach to Workstation-based Task Allocation and Motion Planning</strong><br>
     Seongwon Lee, James Motes, Isaac Ngui, Marco Morales, Nancy M. Amato<br>
-    <a href="https://ieee-iros.org/">[IROS 2023 Workshop]</a> / <a href="file/RAFF_2023_Submission.pdf">[Paper]</a> / <a href="file/IROS2023Poster.pdf">[Poster]</a>
+    <a href="https://ieee-iros.org/">[IROS 2023 Workshop]</a> / <a href="../files/RAFF_2023_Submission.pdf">[Paper]</a> / <a href="../files/IROS2023Poster.pdf">[Poster]</a>
   </div>
 </div>
 
