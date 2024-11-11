@@ -6,13 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a Ph.D. student in [Mechanical Science and Engineering](https://mechse.illinois.edu/) Department at the [University of Illinois at Urbana-Champaign](https://www.uiuc.edu/), co-advised by Professors [Nancy M. Amato](https://siebelschool.illinois.edu/about/people/all-faculty/namato) and [Geir E. Dullerud](https://mechse.illinois.edu/people/profile/dullerud). 
+My research is focused on efficient adaptation of vision and language tools such as foundation models for new and existing downstream tasks. During my undergraduate studies, I conducted research on using evolutionary algorithms for cybersecurity.
 
-I am a Ph.D. student in Mechanical Engineering at the University of Illinois at Urbana-Champaign, co-advised by Professors Nancy M. Amato and Geir E. Dullerud. I earned my bachelor’s degree in Mechanical Engineering under the guidance of Professor Jongeun Choi from Yonsei University in Seoul, Korea, in 2021.
-
-My research is focused on efficient adaptation of vision and language tools such as foundation models for new and existing downstream tasks. During my undergard, I did research on using evolutionary algorithms for cyber security.
+I received my bachelor’s degree in Mechanical Engineering under the guidance of Professor [Jongeun Choi](https://mlcs.yonsei.ac.kr/Professor.html) from Yonsei University in Seoul, Korea, in 2021.
 
 
-I am looking for research interships for summer 2025.
+I am looking for research internships for summer 2025.
 
 <!-- News
 ------  -->
