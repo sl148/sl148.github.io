@@ -144,10 +144,17 @@ Projects
     <strong>Robomaster AI Challenge ICRA2019</strong><br>
     <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
       <div style="display: flex; align-items: center;">
-        <img src="../icons/ros.png" alt="ROS Icon" style="width: 18px; height: 18px; margin-right: 5px;">
+        <img src="../icons/ros.png" alt="ROS Icon" style="width: 25px; height: 18px; margin-right: 5px;">
         <span>ROS</span>
       </div>
       <div style="display: flex; align-items: center;">
+        <img src="../icons/gazebo.png" alt="Python Icon" style="width: 18px; height: 18px; margin-right: 5px;">
+        <span>Gazebo</span>
+      </div>
+      <div style="display: flex; align-items: center;">
+        <img src="../icons/c++.png" alt="Python Icon" style="width: 18px; height: 18px; margin-right: 5px;">
+        <span>C++</span>
+      </div><div style="display: flex; align-items: center;">
         <img src="../icons/python.png" alt="Python Icon" style="width: 18px; height: 18px; margin-right: 5px;">
         <span>Python</span>
       </div>
