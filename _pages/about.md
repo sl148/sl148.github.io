@@ -128,9 +128,9 @@ Projects
   </div>
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
-    <strong>Unexpected Collision Avoidance Driving Strategy Using Deep Reinforcement Learning</strong><br>
+    <strong>Course Project: Handoff Operation for Mobile Manipulators</strong><br>
     Myunhoe Kim, Seongwon Lee, Jaehyun Lim, Jongeun Choi, Seong Gu Kang<br>
-    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[IEEE Access]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> 
+    <a href="https://youtu.be/vK7W6ffZrBM">[Youtube]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> 
   </div>
 </div>
 
@@ -138,13 +138,13 @@ Projects
 <!-- ### Driving -->
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 30%; padding-right: 8px;">
-    <img src="https://via.placeholder.com/150" alt="Quadrotor Image" style="max-width: 100%; height: auto;">
+    <img src="../images/Robomaster.gif" alt="Quadrotor Image" style="max-width: 100%; height: auto;">
   </div>
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
     <strong>Robomaster AI Challenge ICRA2019</strong><br>
     Myunhoe Kim, Seongwon Lee, Jaehyun Lim, Jongeun Choi, Seong Gu Kang<br>
-    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[IEEE Access]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> 
+    <a href="https://www.robomaster.com/en-US">[Robomaster AI Challenge]</a> / <a href="https://www.youtube.com/watch?v=oJdBfSafWjM">[Youtube]</a> 
   </div>
 </div>
 
