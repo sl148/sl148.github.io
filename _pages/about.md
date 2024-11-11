@@ -236,6 +236,6 @@ Professional Service
   - <span style="font-size: 15px;">**Fluid Mechanics (ME 310)**, UIUC – Fall 2022, Spring 2024, Fall 2024</span>
   - <span style="font-size: 15px;">**Mathematical Methods (TAM 541)**, UIUC – Fall 2021</span>
 
-Contact
+<!-- Contact
 ------ 
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
