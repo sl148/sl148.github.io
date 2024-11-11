@@ -24,10 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Scott Lee"
   pronouns         : # example: "she/her"  
-  bio              : |
-    Ph.D. Candidate  
-    Department of Mechanical Engineering
-    UIUC
+  bio              : "Ph.D. Candidate<br>Department of Mechanical Engineering<br>UIUC"
   # location         : "Earth"
   # employer         : "Red Brick University"
   uri              : # URL
