@@ -6,10 +6,10 @@
 
 main:
   - title: "Home"
-    url: /about/
+    url: /about/about.md
 
   - title: "CV"
-    url: ../files/CV.pdf
+    url: /files/CV.pdf
 
 
   # - title: "Talks"
