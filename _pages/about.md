@@ -119,7 +119,7 @@ Projects
         <span>Open Ephys</span>
       </div>
     </div>
-    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[MiV]</a> 
+    <a href="https://mindinvitro.illinois.edu/">[MiV]</a> 
   </div>
 </div>
 
@@ -146,7 +146,7 @@ Projects
         <span>Python</span>
       </div>
     </div>
-    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[EOH]</a>
+    <a href="https://eohillinois.org/">[EOH]</a>
   </div>
 </div>
 
