@@ -103,6 +103,20 @@ Projects
     <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
     <strong>Mind in Vitro (MiV)</strong><br>
     Developing automation system for a biology lab, funded by National Science Foundation (NSF)<br>
+    <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
+      <div style="display: flex; align-items: center;">
+        <img src="../icons/ros.png" alt="ROS Icon" style="width: 25px; height: 18px; margin-right: 5px;">
+        <span>ROS</span>
+      </div>
+      <div style="display: flex; align-items: center;">
+        <img src="../icons/c++.png" alt="Python Icon" style="width: 18px; height: 18px; margin-right: 5px;">
+        <span>C++</span>
+      </div>
+      </div><div style="display: flex; align-items: center;">
+        <img src="../icons/ephys.png" alt="Python Icon" style="width: 18px; height: 18px; margin-right: 5px;">
+        <span>Open Ephys</span>
+      </div>
+    </div>
     <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[IEEE Access]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> 
   </div>
 </div>
@@ -115,7 +129,20 @@ Projects
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
     <strong>Engineering Open House</strong><br>
-    Myunhoe Kim, Seongwon Lee, Jaehyun Lim, Jongeun Choi, Seong Gu Kang<br>
+    <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
+      <div style="display: flex; align-items: center;">
+        <img src="../icons/ros.png" alt="ROS Icon" style="width: 25px; height: 18px; margin-right: 5px;">
+        <span>ROS</span>
+      </div>
+      <div style="display: flex; align-items: center;">
+        <img src="../icons/ur.png" alt="Python Icon" style="width: 18px; height: 18px; margin-right: 5px;">
+        <span>Universal Robot Arms</span>
+      </div>
+      </div><div style="display: flex; align-items: center;">
+        <img src="../icons/python.png" alt="Python Icon" style="width: 18px; height: 18px; margin-right: 5px;">
+        <span>Python</span>
+      </div>
+    </div>
     <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[IEEE Access]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> 
   </div>
 </div>
@@ -129,7 +156,20 @@ Projects
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
     <strong>Course Project: Handoff Operation for Mobile Manipulators</strong><br>
-    Myunhoe Kim, Seongwon Lee, Jaehyun Lim, Jongeun Choi, Seong Gu Kang<br>
+    <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
+      <div style="display: flex; align-items: center;">
+        <img src="../icons/ros.png" alt="ROS Icon" style="width: 25px; height: 18px; margin-right: 5px;">
+        <span>ROS</span>
+      </div>
+      <div style="display: flex; align-items: center;">
+        <img src="../icons/gazebo.png" alt="Python Icon" style="width: 18px; height: 18px; margin-right: 5px;">
+        <span>Gazebo</span>
+      </div>
+      </div><div style="display: flex; align-items: center;">
+        <img src="../icons/python.png" alt="Python Icon" style="width: 18px; height: 18px; margin-right: 5px;">
+        <span>Python</span>
+      </div>
+    </div>
     <a href="https://youtu.be/vK7W6ffZrBM">[Youtube]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> 
   </div>
 </div>
