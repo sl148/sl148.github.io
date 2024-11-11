@@ -569,3 +569,11 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+.header-links {
+  display: flex;
+}
+
+.rightmost-link {
+  margin-left: auto;
+}
