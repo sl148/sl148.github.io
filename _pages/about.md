@@ -10,7 +10,7 @@ I am a Ph.D. student in [Mechanical Science and Engineering](https://mechse.illi
 
 My research focuses on developing efficient <strong>multi-robot task and motion planning</strong> algorithms, enabling rapid adaptation to constraint-heavy environments. I have extensive experience integrating hardware and software for impactful real-world deployments.
 
-I received my bachelor’s degree in Mechanical Engineering under the guidance of Professor [Jongeun Choi](https://mlcs.yonsei.ac.kr/Professor.html) from Yonsei University in Seoul, Korea, in 2021.
+I received my bachelor’s degree in Mechanical Engineering under the guidance of Professor [Jongeun Choi](https://mlcs.yonsei.ac.kr/Professor.html) from Yonsei University in Seoul, South Korea, in 2021.
 
 
 <p style="color: blue;">I am looking for research internships for summer 2025.</p>
