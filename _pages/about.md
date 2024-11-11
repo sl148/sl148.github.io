@@ -103,7 +103,7 @@ Projects
     <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
     <strong>Mind in Vitro (MiV)</strong><br>
     Developing an robotics automation system for a biology lab, funded by National Science Foundation (NSF)<br>
-    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[IEEE Access]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> / 
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[MiV]</a> /  
     <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
       <div style="display: flex; align-items: center;">
         <img src="../icons/ros.png" alt="ROS Icon" style="width: 40px; height: 18px; margin-right: 5px;">
@@ -129,7 +129,7 @@ Projects
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
     <strong>Engineering Open House</strong><br>
-    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[IEEE Access]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> / 
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[EOH]</a> / 
     <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
       <div style="display: flex; align-items: center;">
         <img src="../icons/ros.png" alt="ROS Icon" style="width: 40px; height: 18px; margin-right: 5px;">
@@ -156,7 +156,7 @@ Projects
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
     <strong>Course Project: Handoff Operation for Mobile Manipulators</strong><br>
-    <a href="https://youtu.be/vK7W6ffZrBM">[Youtube]</a> / <a href="https://icra40.ieee.org/">[Paper]</a> / 
+    <a href="https://youtu.be/vK7W6ffZrBM">[Youtube]</a> / 
     <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
       <div style="display: flex; align-items: center;">
         <img src="../icons/ros.png" alt="ROS Icon" style="width: 40px; height: 18px; margin-right: 5px;">
