@@ -107,7 +107,7 @@ Projects
         <!-- <span>C++</span> -->
       </div>
       <div style="display: flex; align-items: center;">
-        <img src="../icons/ephys.png" alt="Python Icon" style="width: 30px; height: 18px; margin-right: 5px;">
+        <img src="../icons/ephys.png" alt="Python Icon" style="width: 38px; height: 18px; margin-right: 5px;">
         <!-- <span>Open Ephys</span> -->
       </div>
     </div>
@@ -139,7 +139,7 @@ Projects
         <!-- <span>Universal Robot Arms</span> -->
       </div>
       <div style="display: flex; align-items: center;">
-        <img src="../icons/realsense.png" alt="Python Icon" style="width: 70px; height: 18px; margin-right: 5px;">
+        <img src="../icons/realsense.png" alt="Python Icon" style="width: 90px; height: 18px; margin-right: 5px;">
         <!-- <span>Universal Robot Arms</span> -->
       </div>
     </div>
