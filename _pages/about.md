@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Scott Lee's Homepage"
+title: "Scott (Seongwon) Lee's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
