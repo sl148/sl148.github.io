@@ -15,6 +15,9 @@ redirect_from:
 
 
 <p style="color: blue;"><strong>I am looking for research internships for Summer/Fall 2025.</strong></p>
+<br>
+<br>
+<br>
 
 <!-- News
 ------  -->
@@ -85,14 +88,12 @@ Research
 <br>
 <br>
 <br>
-<br>
-<br>
 
 
 Projects
 ------
 
-<!-- ### Driving -->
+<!-- ### Driving -->  
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 30%; padding-right: 8px;">
     <img src="../images/MiV.gif" alt="Quadrotor Image" style="max-width: 100%; height: auto;">
@@ -211,6 +212,10 @@ Projects
     <a href="https://www.robomaster.com/en-US" style=" font-weight: bold; text-decoration: none;">Robomaster AI Challenge</a> / <a href="https://www.youtube.com/watch?v=oJdBfSafWjM" style=" font-weight: bold; text-decoration: none;">Youtube</a> 
   </div>
 </div>
+<br>
+<br>
+<br>
+<br>
 
 <!-- ### Driving -->
 <!-- <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
