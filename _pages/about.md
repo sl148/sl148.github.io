@@ -13,7 +13,7 @@ My research focuses on developing fast and scalable <strong>multi-robot task and
 I received my bachelor’s degree in Mechanical Engineering under the guidance of Professor [Jongeun Choi](https://mlcs.yonsei.ac.kr/Professor.html) from Yonsei University in Seoul, South Korea, in 2021.
 
 
-<p style="color: blue;">I am looking for research internships for summer 2025.</p>
+<p style="color: blue;"><strong>I am looking for research internships for Summer/Fall 2025.</strong></p>
 
 <!-- News
 ------  -->
