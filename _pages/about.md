@@ -13,6 +13,7 @@ redirect_from:
 <p>I received my bachelor’s degree in Mechanical Engineering under the guidance of Professor <a href="https://mlcs.yonsei.ac.kr/Professor.html" style="text-decoration: none;">Jongeun Choi</a> from Yonsei University in Seoul, South Korea, in 2021.</p>
 
 
+
 <p style="color: blue;"><strong>I am looking for research internships for Summer/Fall 2025.</strong></p>
 
 <!-- News
@@ -29,7 +30,7 @@ Research
   <div style="width: 70%; font-size: 15px;">
     <strong>Lazy-DaSH: Lazy Approach of Hypergraph-based Multi-robot Task and Motion Planning</strong><br>
     <strong><em style="">Seongwon Lee</em></strong>, <em style="color: #4A4A4A;">James Motes, Isaac Ngui, Marco Morales, Nancy M. Amato</em><br>
-    <a href="https://icra40.ieee.org/" style="font-weight: bold; text-decoration: none;">ICRA@40</a> / <a href="../files/ICRA@40 Lazy-DaSH Lazy Approach for Hypergraph-based Multi-robot Task and Motion Planning Final.pdf" style="text-decoration: none;">Paper</a> / <a href="../files/ICRA@40_poster.pdf" style="text-decoration: none;">Poster</a>
+    <a href="https://icra40.ieee.org/" style=" font-weight: bold; text-decoration: none;">ICRA@40</a> / <a href="../files/ICRA@40 Lazy-DaSH Lazy Approach for Hypergraph-based Multi-robot Task and Motion Planning Final.pdf" style=" text-decoration: none;">Paper</a> / <a href="../files/ICRA@40_poster.pdf" style=" text-decoration: none;">Poster</a>
   </div>
 </div>
 
@@ -41,7 +42,7 @@ Research
   <div style="width: 70%; font-size: 15px;">
     <strong>A Hierarchical Approach to Workstation-based Task Allocation and Motion Planning</strong><br>
     <strong><em style="">Seongwon Lee</em></strong>, <em style="color: #4A4A4A;">James Motes, Isaac Ngui, Marco Morales, Nancy M. Amato</em><br>
-    <a href="https://ieee-iros.org/" style="font-weight: bold; text-decoration: none;">IROS 2023 Workshop</a> / <a href="../files/RAFF_2023_Submission.pdf" style="text-decoration: none;">Paper</a> / <a href="../files/IROS2023Poster.pdf" style="text-decoration: none;">Poster</a>
+    <a href="https://ieee-iros.org/" style=" font-weight: bold; text-decoration: none;">IROS 2023 Workshop</a> / <a href="../files/RAFF_2023_Submission.pdf" style=" text-decoration: none;">Paper</a> / <a href="../files/IROS2023Poster.pdf" style=" text-decoration: none;">Poster</a>
   </div>
 </div>
 
@@ -53,7 +54,7 @@ Research
   <div style="width: 70%; font-size: 15px;">
     <strong>Output Feedback Control Design for Quadrotors Using Recursive Least Square Dynamic Inversion</strong><br>
     <strong><em style="">Seongwon Lee</em></strong>, <em style="color: #4A4A4A;">Joohwan Seo, Connor J. Boss, Joonho Lee, Jongeun Choi</em><br>
-    <a href="https://www.sciencedirect.com/journal/mechatronics" style="font-weight: bold; text-decoration: none;">Elsevier Mechatronics</a> / <a href="../files/Outputfeedbackcontroldesignforquadrotorusingrecursiveleast square dynamicinversion.pdf" style="text-decoration: none;">Paper</a> / <a href="https://youtu.be/ltcx1X3WuIU" style="text-decoration: none;">YouTube</a>
+    <a href="https://www.sciencedirect.com/journal/mechatronics" style=" font-weight: bold; text-decoration: none;">Elsevier Mechatronics</a> / <a href="../files/Outputfeedbackcontroldesignforquadrotorusingrecursiveleast square dynamicinversion.pdf" style=" text-decoration: none;">Paper</a> / <a href="https://youtu.be/ltcx1X3WuIU" style=" text-decoration: none;">YouTube</a>
   </div>
 </div>
 
@@ -65,7 +66,7 @@ Research
   <div style="width: 70%; font-size: 15px;">
     <strong>Nonaffine Helicopter Control Design and Implementation Based on a Robust Explicit Nonlinear Model Predictive Control</strong><br>
     <em style="color: #4A4A4A;">Joohwan Seo, <strong style="">Seongwon Lee</strong>, Joonho Lee, Jongeun Choi</em><br>
-    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87" style="font-weight: bold; text-decoration: none;">IEEE Transactions on Control Systems Technology</a> / <a href="../files/NonaffineHelicopterControlDesignandImplementationBasedonaRobustExplicitNonlinearModelPredictiveControl.pdf" style="text-decoration: none;">Paper</a> / <a href="https://www.youtube.com/watch?v=aLQ-Ar9PMv4" style="text-decoration: none;">YouTube</a>
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87" style=" font-weight: bold; text-decoration: none;">IEEE Transactions on Control Systems Technology</a> / <a href="../files/NonaffineHelicopterControlDesignandImplementationBasedonaRobustExplicitNonlinearModelPredictiveControl.pdf" style=" text-decoration: none;">Paper</a> / <a href="https://www.youtube.com/watch?v=aLQ-Ar9PMv4" style=" text-decoration: none;">YouTube</a>
   </div>
 </div>
 
@@ -77,7 +78,7 @@ Research
   <div style="width: 70%; font-size: 15px;">
     <strong>Unexpected Collision Avoidance Driving Strategy Using Deep Reinforcement Learning</strong><br>
     <em style="color: #4A4A4A;">Myunhoe Kim, <strong style="">Seongwon Lee</strong>, Jaehyun Lim, Jongeun Choi, Seong Gu Kang</em><br>
-    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" style="font-weight: bold; text-decoration: none;">IEEE Access</a> / <a href="../files/UnexpectedCollisionAvoidanceDrivingStrategyUsingDeepReinforcementLearning.pdf" style="text-decoration: none;">Paper</a>
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" style=" font-weight: bold; text-decoration: none;">IEEE Access</a> / <a href="../files/UnexpectedCollisionAvoidanceDrivingStrategyUsingDeepReinforcementLearning.pdf" style=" text-decoration: none;">Paper</a>
   </div>
 </div>
 
@@ -110,7 +111,7 @@ Projects
         <!-- <span>Open Ephys</span> -->
       </div>
     </div>
-    <a href="https://mindinvitro.illinois.edu/" style="font-weight: bold; text-decoration: none;">MiV</a> 
+    <a href="https://mindinvitro.illinois.edu/" style=" font-weight: bold; text-decoration: none;">MiV</a> 
   </div>
 </div>
 
@@ -142,7 +143,7 @@ Projects
         <!-- <span>Universal Robot Arms</span> -->
       </div>
     </div>
-    <a href="https://eohillinois.org/" style="font-weight: bold; text-decoration: none;">EOH</a>
+    <a href="https://eohillinois.org/" style=" font-weight: bold; text-decoration: none;">EOH</a>
   </div>
 </div>
 
@@ -171,7 +172,7 @@ Projects
         <!-- <span>Python</span> -->
       </div>
     </div>
-    <a href="https://youtu.be/vK7W6ffZrBM" style="font-weight: bold; text-decoration: none;">Youtube</a> 
+    <a href="https://youtu.be/vK7W6ffZrBM" style=" font-weight: bold; text-decoration: none;">Youtube</a> 
   </div>
 </div>
 
@@ -202,7 +203,7 @@ Projects
         <!-- <span>Python</span> -->
       </div>
     </div>
-    <a href="https://www.robomaster.com/en-US" style="font-weight: bold; text-decoration: none;">Robomaster AI Challenge</a> / <a href="https://www.youtube.com/watch?v=oJdBfSafWjM" style="font-weight: bold; text-decoration: none;">Youtube</a> 
+    <a href="https://www.robomaster.com/en-US" style=" font-weight: bold; text-decoration: none;">Robomaster AI Challenge</a> / <a href="https://www.youtube.com/watch?v=oJdBfSafWjM" style=" font-weight: bold; text-decoration: none;">Youtube</a> 
   </div>
 </div>
 
