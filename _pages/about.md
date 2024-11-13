@@ -81,7 +81,12 @@ Research
     <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" style=" font-weight: bold; text-decoration: none;">IEEE Access</a> / <a href="../files/UnexpectedCollisionAvoidanceDrivingStrategyUsingDeepReinforcementLearning.pdf" style=" text-decoration: none;">Paper</a>
   </div>
 </div>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 Projects
