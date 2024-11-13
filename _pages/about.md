@@ -130,7 +130,8 @@ Projects
   </div>
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
-    <strong>Engineering Open House</strong><br>
+    <strong>Factory Automation Demo</strong><br>
+    Demonstrated a simple factory automation demo to pre-college students at the Engineering Open House (EOH) at UIUC<br>
     <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
       <strong>Skills:</strong>
       <div style="display: flex; align-items: center;">
@@ -158,7 +159,8 @@ Projects
   </div>
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
-    <strong>Course Project: Handoff Operation for Mobile Manipulators</strong><br>
+    <strong>Robotics Course Project: Handoff Operation for Mobile Manipulators</strong><br>
+    Designed a vision-based system for handoff operations between a workstation and a mobile manipulator <br>
     <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
       <strong>Skills:</strong>
       <div style="display: flex; align-items: center;">
@@ -186,6 +188,7 @@ Projects
   </div>
   <div style="width: 70%; font-size: 15px;">
     <strong>Robomaster AI Challenge ICRA2019</strong><br>
+    Implemented cooperative planning algorithms for fully autonomous combat robots (Achieved 3rd place) <br>
     <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
       <strong>Skills:</strong>
       <div style="display: flex; align-items: center;">
