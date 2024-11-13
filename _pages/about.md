@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in [Mechanical Science and Engineering](https://mechse.illinois.edu/) Department at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), advised by Professor [Nancy M. Amato](https://siebelschool.illinois.edu/about/people/all-faculty/namato). 
+<p>I am a Ph.D. student in <a href="https://mechse.illinois.edu/" style="text-decoration: none;">Mechanical Science and Engineering</a> Department at the <a href="https://illinois.edu/" style="text-decoration: none;">University of Illinois at Urbana-Champaign</a>, advised by Professor <a href="https://siebelschool.illinois.edu/about/people/all-faculty/namato" style="text-decoration: none;">Nancy M. Amato</a>.</p>
 
-My research focuses on developing fast and scalable <strong>multi-robot task and motion planning</strong> algorithms, enabling rapid adaptation to constraints. I have extensive experience integrating hardware and software for impactful real-world deployments.
+<p>My research focuses on developing fast and scalable <strong>multi-robot task and motion planning</strong> algorithms, enabling rapid adaptation to constraints. I have extensive experience integrating hardware and software for impactful real-world deployments.</p>
 
-I received my bachelor’s degree in Mechanical Engineering under the guidance of Professor [Jongeun Choi](https://mlcs.yonsei.ac.kr/Professor.html) from Yonsei University in Seoul, South Korea, in 2021.
+<p>I received my bachelor’s degree in Mechanical Engineering under the guidance of Professor <a href="https://mlcs.yonsei.ac.kr/Professor.html" style="text-decoration: none;">Jongeun Choi</a> from Yonsei University in Seoul, South Korea, in 2021.</p>
 
 
 <p style="color: blue;"><strong>I am looking for research internships for Summer/Fall 2025.</strong></p>
