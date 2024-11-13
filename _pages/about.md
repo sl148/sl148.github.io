@@ -139,7 +139,7 @@ Projects
         <!-- <span>Universal Robot Arms</span> -->
       </div>
       <div style="display: flex; align-items: center;">
-        <img src="../icons/realsense.png" alt="Python Icon" style="width: 50px; height: 18px; margin-right: 5px;">
+        <img src="../icons/realsense.png" alt="Python Icon" style="width: 70px; height: 18px; margin-right: 5px;">
         <!-- <span>Universal Robot Arms</span> -->
       </div>
     </div>
