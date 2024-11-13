@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in [Mechanical Science and Engineering](https://mechse.illinois.edu/) Department at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), advised by Professors [Nancy M. Amato](https://siebelschool.illinois.edu/about/people/all-faculty/namato). 
+I am a Ph.D. student in [Mechanical Science and Engineering](https://mechse.illinois.edu/) Department at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), advised by Professor [Nancy M. Amato](https://siebelschool.illinois.edu/about/people/all-faculty/namato). 
 
 My research focuses on developing fast and scalable <strong>multi-robot task and motion planning</strong> algorithms, enabling rapid adaptation to constraints. I have extensive experience integrating hardware and software for impactful real-world deployments.
 
