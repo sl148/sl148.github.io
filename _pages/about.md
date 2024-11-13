@@ -28,9 +28,9 @@ Research
   </div>
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>This section describes Lazy-DaSH, detailing the project, its goals, and any key results or publications.</p> -->
-    <strong>Lazy-DaSH: Lazy Approach of Hypergraph-based Multi-robt Task and Motion Planning</strong><br>
-    Seongwon Lee, James Motes, Isaac Ngui, Marco Morales, Nancy M. Amato<br>
-    <a href="https://icra40.ieee.org/">[ICRA@40]</a> / <a href="../files/ICRA@40 Lazy-DaSH Lazy Approach for Hypergraph-based Multi-robot Task and Motion Planning Final.pdf">[Paper]</a> / <a href="../files/ICRA@40_poster.pdf">[Poster]</a>
+    <strong>Lazy-DaSH: Lazy Approach of Hypergraph-based Multi-robot Task and Motion Planning</strong><br>
+    <strong><em>Seongwon Lee</em></strong>, <em>James Motes, Isaac Ngui, Marco Morales, Nancy M. Amato</em><br>
+    <a href="https://icra40.ieee.org/" style="color: black; font-weight: bold;">ICRA@40</a> / <a href="../files/ICRA@40 Lazy-DaSH Lazy Approach for Hypergraph-based Multi-robot Task and Motion Planning Final.pdf">Paper</a> / <a href="../files/ICRA@40_poster.pdf">Poster</a>
   </div>
 </div>
 
@@ -42,8 +42,8 @@ Research
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>This section describes the Reconfigurable Factory project. Include information on how it enables flexible manufacturing and any specific methodologies or technologies used.</p> -->
     <strong>A hierarchical Approach to Workstation-based Task Allocation and Motion Planning</strong><br>
-    Seongwon Lee, James Motes, Isaac Ngui, Marco Morales, Nancy M. Amato<br>
-    <a href="https://ieee-iros.org/">[IROS 2023 Workshop]</a> / <a href="../files/RAFF_2023_Submission.pdf">[Paper]</a> / <a href="../files/IROS2023Poster.pdf">[Poster]</a>
+    <strong><em>Seongwon Lee</em></strong>, <em>James Motes, Isaac Ngui, Marco Morales, Nancy M. Amato</em><br>
+    <a href="https://ieee-iros.org/" style="color: black; font-weight: bold;">IROS 2023 Workshop</a> / <a href="../files/RAFF_2023_Submission.pdf">Paper</a> / <a href="../files/IROS2023Poster.pdf">Poster</a>
   </div>
 </div>
 
@@ -55,8 +55,8 @@ Research
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>This section provides an overview of the driving research. Describe any experiments, models, or insights gained in this area.</p> -->
     <strong>Output Feedback Control Design for Quadrotors Using Recursive Least Square Dynamic Inversion</strong><br>
-    Seongwon Lee, Joohwan Seo, Connor J. Boss, Joonho Lee, Jongeun Choi<br>
-    <a href="https://www.sciencedirect.com/journal/mechatronics">[Elsevir Mechatronics]</a> / <a href="../files/Outputfeedbackcontroldesignforquadrotorusingrecursiveleast square dynamicinversion.pdf">[Paper]</a> / <a href="https://youtu.be/ltcx1X3WuIU">[Youtube]</a>
+    <strong><em>Seongwon Lee</em></strong>, <em>Joohwan Seo, Connor J. Boss, Joonho Lee, Jongeun Choi</em><br>
+    <a href="https://www.sciencedirect.com/journal/mechatronics" style="color: black; font-weight: bold;">Elsevier Mechatronics</a> / <a href="../files/Outputfeedbackcontroldesignforquadrotorusingrecursiveleast square dynamicinversion.pdf">Paper</a> / <a href="https://youtu.be/ltcx1X3WuIU">Youtube</a>
   </div>
 </div>
 
@@ -71,9 +71,9 @@ Research
   </div>
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>This section provides an overview of the driving research. Describe any experiments, models, or insights gained in this area.</p> -->
-    <strong>Nonaffine helicopter control design and implementation based on a robust explicit nonlinear model predictive control</strong><br>
-    Joohwan Seo, Seongwon Lee, Joonho Lee, Jongeun Choi<br>
-    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87">[IEEE Transactions on Control Systems Technology]</a> / <a href="../files/NonaffineHelicopterControlDesignandImplementationBasedonaRobustExplicitNonlinearModelPredictiveControl.pdf">[Paper]</a> / <a href="https://www.youtube.com/watch?v=aLQ-Ar9PMv4">[Youtube]</a>
+    <strong>Nonaffine Helicopter Control Design and Implementation Based on a Robust Explicit Nonlinear Model Predictive Control</strong><br>
+    <em>Joohwan Seo, <strong>Seongwon Lee</strong>, Joonho Lee, Jongeun Choi</em><br>
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87" style="color: black; font-weight: bold;">IEEE Transactions on Control Systems Technology</a> / <a href="../files/NonaffineHelicopterControlDesignandImplementationBasedonaRobustExplicitNonlinearModelPredictiveControl.pdf">Paper</a> / <a href="https://www.youtube.com/watch?v=aLQ-Ar9PMv4">Youtube</a>
   </div>
 </div>
 
@@ -85,8 +85,8 @@ Research
   <div style="width: 70%; font-size: 15px;">
     <!-- <p>In this section, provide details about your research on quadrotors, including any unique approaches, challenges, and achievements.</p> -->
     <strong>Unexpected Collision Avoidance Driving Strategy Using Deep Reinforcement Learning</strong><br>
-    Myunhoe Kim, Seongwon Lee, Jaehyun Lim, Jongeun Choi, Seong Gu Kang<br>
-    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">[IEEE Access]</a> / <a href="../files/UnexpectedCollisionAvoidanceDrivingStrategyUsingDeepReinforcementLearning.pdf">[Paper]</a> 
+    <em>Myunhoe Kim, <strong>Seongwon Lee</strong>, Jaehyun Lim, Jongeun Choi, Seong Gu Kang</em><br>
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639" style="color: black; font-weight: bold;">IEEE Access</a> / <a href="../files/UnexpectedCollisionAvoidanceDrivingStrategyUsingDeepReinforcementLearning.pdf">Paper</a>
   </div>
 </div>
 
