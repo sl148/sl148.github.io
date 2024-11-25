@@ -8,7 +8,7 @@ redirect_from:
 ---
 <p>I am a Ph.D. student in <a href="https://mechse.illinois.edu/" style="text-decoration: none;">Mechanical Science and Engineering</a> Department at the <a href="https://illinois.edu/" style="text-decoration: none;">University of Illinois at Urbana-Champaign</a>, advised by Professor <a href="https://siebelschool.illinois.edu/about/people/all-faculty/namato" style="text-decoration: none;">Nancy M. Amato</a>.</p>
 
-<p>My research focuses on developing fast and scalable <strong>multi-robot task and motion planning</strong> algorithms, enabling rapid adaptation to constraints. I have extensive experience integrating hardware and software for impactful real-world deployments.</p>
+<p>My research focuses on developing fast and scalable <strong>multi-robot task and motion planning</strong> algorithms. I have extensive experience integrating hardware and software for impactful real-world deployments.</p>
 
 <p>I received my bachelor’s degree in Mechanical Engineering under the guidance of Professor <a href="https://mlcs.yonsei.ac.kr/Professor.html" style="text-decoration: none;">Jongeun Choi</a> from Yonsei University in Seoul, South Korea, in 2021.</p>
 
