@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 100px; padding-right: 10px;">
-    <img src="../images/moonshot.png" alt="Moonshot Factory logo" style="max-width: 100%; height: auto;">
+    <img src="/images/moonshot.png" alt="Moonshot Factory logo" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <p>I am currently a Ph.D. Resident at X, <a href="https://x.company/">the Moonshot Factory</a> (formerly Google X), where I am contributing to a stealth project on automating wet labs using robotics and multi-agent LLMs.</p>
@@ -18,20 +18,20 @@ redirect_from:
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 100px; padding-right: 10px;">
-    <img src="../images/uiuc_logo.png" alt="UIUC logo" style="max-width: 100%; height: auto;">
+    <img src="/images/uiuc_logo.png" alt="UIUC logo" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
-    <p>I am a Ph.D. student in <a href="https://mechse.illinois.edu/" style="text-decoration: none;">Mechanical Science and Engineering</a> Department at the <a href="https://illinois.edu/" style="text-decoration: none;">University of Illinois at Urbana-Champaign</a>, advised by Professor <a href="https://siebelschool.illinois.edu/about/people/all-faculty/namato" style="text-decoration: none;">Nancy M. Amato</a>.</p>
+    <p>I am a Ph.D. student in Mechanical Science and Engineering Department at the University of Illinois at Urbana-Champaign, advised by Professor <a href="https://siebelschool.illinois.edu/about/people/all-faculty/namato" style="text-decoration: underline;">Nancy M. Amato</a>.</p>
     <p>My research focuses on developing fast and scalable <strong>multi-robot task and motion planning</strong> algorithms, drawing on extensive experience in integrating hardware and software for impactful real-world deployments.</p>
   </div>
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 100px; padding-right: 10px;">
-    <img src="../images/yonsei_logo.png" alt="Yonsei University logo" style="max-width: 100%; height: auto;">
+    <img src="/images/yonsei_logo.png" alt="Yonsei University logo" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
-    <p>I received my bachelor’s degree in Mechanical Engineering under the guidance of Professor <a href="https://mlcs.yonsei.ac.kr/Professor.html" style="text-decoration: none;">Jongeun Choi</a> from Yonsei University in Seoul, South Korea, in 2021.</p>
+    <p>I received my bachelor’s degree in Mechanical Engineering under the guidance of Professor <a href="https://mlcs.yonsei.ac.kr/Professor.html" style="text-decoration: underline;">Jongeun Choi</a> from Yonsei University in Seoul, South Korea, in 2021.</p>
   </div>
 </div>
 
