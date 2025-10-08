@@ -56,7 +56,7 @@ Research
   <div style="width: 70%; font-size: 15px;">
     <strong>Lazy-DaSH: Lazy Approach of Hypergraph-based Multi-robot Task and Motion Planning</strong><br>
     <strong><em style="">Seongwon Lee</em></strong>, <em style="color: #4A4A4A;">James Motes, Isaac Ngui, Marco Morales, Nancy M. Amato</em><br>
-    <a href="" style=" font-weight: bold; text-decoration: none;">Under Review</a> / <a href="../files/lazy_hype_tro_arxiv.pdf" style=" text-decoration: none;">Paper</a> / <a href="../files/ICRA@40_poster.pdf" style=" text-decoration: none;">Poster</a> / <a href="" style=" text-decoration: none;">Simulation</a> / <a href="" style=" text-decoration: none;">Hardware Exp.</a>
+    <a href="" style=" font-weight: bold; text-decoration: none;">Under Review</a> / <a href="../files/lazy_hype_tro_arxiv.pdf" style=" text-decoration: none;">Paper</a> / <a href="../files/ICRA@40_poster.pdf" style=" text-decoration: none;">Poster</a> / <a href="https://drive.google.com/file/d/1T53N-vW6U0LH1WA1w9WLaOhstgMNJTP8/view?usp=sharing" style=" text-decoration: none;">Simulation</a> / <a href="https://drive.google.com/file/d/1fAJ8TNFg8BKuut13hG3sdsWv_wC8lJcw/view?usp=sharing" style=" text-decoration: none;">Hardware Exp.</a>
   </div>
 </div>
 
