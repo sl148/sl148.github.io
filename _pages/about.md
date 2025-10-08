@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hi, my name is Scott (Seongwon) Lee"
+title: "👋 My name is Scott (Seongwon) Lee"
 author_profile: true
 redirect_from: 
   - /about/
