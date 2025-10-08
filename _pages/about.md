@@ -6,13 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p>I am a Ph.D. student in <a href="https://mechse.illinois.edu/" style="text-decoration: none;">Mechanical Science and Engineering</a> Department at the <a href="https://illinois.edu/" style="text-decoration: none;">University of Illinois at Urbana-Champaign</a>, advised by Professor <a href="https://siebelschool.illinois.edu/about/people/all-faculty/namato" style="text-decoration: none;">Nancy M. Amato</a>.</p>
+<p style="display: flex; align-items: center;"><img src="../images/uiuc_logo.png" alt="UIUC logo" style="width: 50px; margin-right: 10px;"><span>I am a Ph.D. student in <a href="https://mechse.illinois.edu/" style="text-decoration: none;">Mechanical Science and Engineering</a> Department at the <a href="https://illinois.edu/" style="text-decoration: none;">University of Illinois at Urbana-Champaign</a>, advised by Professor <a href="https://siebelschool.illinois.edu/about/people/all-faculty/namato" style="text-decoration: none;">Nancy M. Amato</a>.</span></p>
 
-<p>I am currently a Ph.D. Resident at X, the Moonshot Factory (formerly Google X), where I am contributing to a stealth project on automating wet labs using robotics and multi-agent LLMs.</p>
+<p style="display: flex; align-items: center;"><img src="../images/moonshot.png" alt="Moonshot Factory logo" style="width: 50px; margin-right: 10px;"><span>I am currently a Ph.D. Resident at X, <a href="https://x.company/">the Moonshot Factory</a> (formerly Google X), where I am contributing to a stealth project on automating wet labs using robotics and multi-agent LLMs.</span></p>
 
 <p>My research focuses on developing fast and scalable <strong>multi-robot task and motion planning</strong> algorithms, drawing on extensive experience in integrating hardware and software for impactful real-world deployments.</p>
 
-<p>I received my bachelor’s degree in Mechanical Engineering under the guidance of Professor <a href="https://mlcs.yonsei.ac.kr/Professor.html" style="text-decoration: none;">Jongeun Choi</a> from Yonsei University in Seoul, South Korea, in 2021.</p>
+<p style="display: flex; align-items: center;"><img src="../images/yonsei_logo.png" alt="Yonsei University logo" style="width: 50px; margin-right: 10px;"><span>I received my bachelor’s degree in Mechanical Engineering under the guidance of Professor <a href="https://mlcs.yonsei.ac.kr/Professor.html" style="text-decoration: none;">Jongeun Choi</a> from Yonsei University in Seoul, South Korea, in 2021.</span></p>
 
 
 
