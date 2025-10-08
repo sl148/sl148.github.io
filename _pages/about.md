@@ -8,13 +8,15 @@ redirect_from:
 ---
 <p>I am a Ph.D. student in <a href="https://mechse.illinois.edu/" style="text-decoration: none;">Mechanical Science and Engineering</a> Department at the <a href="https://illinois.edu/" style="text-decoration: none;">University of Illinois at Urbana-Champaign</a>, advised by Professor <a href="https://siebelschool.illinois.edu/about/people/all-faculty/namato" style="text-decoration: none;">Nancy M. Amato</a>.</p>
 
-<p>My research focuses on developing fast and scalable <strong>multi-robot task and motion planning</strong> algorithms. I have extensive experience integrating hardware and software for impactful real-world deployments.</p>
+<p>I am currently a Ph.D. Resident at X, the Moonshot Factory (formerly Google X), where I am contributing to a stealth project on automating wet labs using robotics and multi-agent LLMs.</p>
+
+<p>My research focuses on developing fast and scalable <strong>multi-robot task and motion planning</strong> algorithms, drawing on extensive experience in integrating hardware and software for impactful real-world deployments.</p>
 
 <p>I received my bachelor’s degree in Mechanical Engineering under the guidance of Professor <a href="https://mlcs.yonsei.ac.kr/Professor.html" style="text-decoration: none;">Jongeun Choi</a> from Yonsei University in Seoul, South Korea, in 2021.</p>
 
 
 
-<p style="color: blue;"><strong>I am looking for research internships for Summer/Fall 2025.</strong></p>
+<!-- <p style="color: blue;"><strong>I am looking for research internships for Summer/Fall 2025.</strong></p> -->
 <br>
 <br>
 <br>
@@ -33,7 +35,7 @@ Research
   <div style="width: 70%; font-size: 15px;">
     <strong>Lazy-DaSH: Lazy Approach of Hypergraph-based Multi-robot Task and Motion Planning</strong><br>
     <strong><em style="">Seongwon Lee</em></strong>, <em style="color: #4A4A4A;">James Motes, Isaac Ngui, Marco Morales, Nancy M. Amato</em><br>
-    <a href="https://icra40.ieee.org/" style=" font-weight: bold; text-decoration: none;">ICRA@40</a> / <a href="../files/ICRA@40 Lazy-DaSH Lazy Approach for Hypergraph-based Multi-robot Task and Motion Planning Final.pdf" style=" text-decoration: none;">Paper</a> / <a href="../files/ICRA@40_poster.pdf" style=" text-decoration: none;">Poster</a>
+    <a href="" style=" font-weight: bold; text-decoration: none;">Under Review</a> / <a href="../files/lazy_hype_tro_arxiv.pdf" style=" text-decoration: none;">Paper</a> / <a href="../files/ICRA@40_poster.pdf" style=" text-decoration: none;">Poster</a> / <a href="" style=" text-decoration: none;">Simulation</a> / <a href="" style=" text-decoration: none;">Hardware Exp.</a>
   </div>
 </div>
 
@@ -239,7 +241,7 @@ Projects
 Professional Service
 ------
 - <span style="font-size: 16px;">**Reviewer**</span>
-  - <span style="font-size: 15px;">ICRA, IROS, WAFR (2022 - 2024)</span>
+  - <span style="font-size: 15px;">RAL, ICRA, IROS, WAFR (2022 - 2024)</span>
 
 - <span style="font-size: 16px;">**Teaching & Mentoring**</span>
   - <span style="font-size: 15px;">**Research Program Mentor (CS)**, UIUC – Fall 2023, Summer 2024, Spring 2024</span>
