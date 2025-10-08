@@ -6,16 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
-  <div style="width: 100px; padding-right: 10px;">
-    <img src="../images/uiuc_logo.png" alt="UIUC logo" style="max-width: 100%; height: auto;">
-  </div>
-  <div style="flex: 1;">
-    <p>I am a Ph.D. student in <a href="https://mechse.illinois.edu/" style="text-decoration: none;">Mechanical Science and Engineering</a> Department at the <a href="https://illinois.edu/" style="text-decoration: none;">University of Illinois at Urbana-Champaign</a>, advised by Professor <a href="https://siebelschool.illinois.edu/about/people/all-faculty/namato" style="text-decoration: none;">Nancy M. Amato</a>.</p>
-    <p>My research focuses on developing fast and scalable <strong>multi-robot task and motion planning</strong> algorithms, drawing on extensive experience in integrating hardware and software for impactful real-world deployments.</p>
-  </div>
-</div>
-
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 100px; padding-right: 10px;">
@@ -26,6 +16,15 @@ redirect_from:
   </div>
 </div>
 
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+  <div style="width: 100px; padding-right: 10px;">
+    <img src="../images/uiuc_logo.png" alt="UIUC logo" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1;">
+    <p>I am a Ph.D. student in <a href="https://mechse.illinois.edu/" style="text-decoration: none;">Mechanical Science and Engineering</a> Department at the <a href="https://illinois.edu/" style="text-decoration: none;">University of Illinois at Urbana-Champaign</a>, advised by Professor <a href="https://siebelschool.illinois.edu/about/people/all-faculty/namato" style="text-decoration: none;">Nancy M. Amato</a>.</p>
+    <p>My research focuses on developing fast and scalable <strong>multi-robot task and motion planning</strong> algorithms, drawing on extensive experience in integrating hardware and software for impactful real-world deployments.</p>
+  </div>
+</div>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 100px; padding-right: 10px;">
