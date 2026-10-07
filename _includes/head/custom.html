@@ -35,8 +35,9 @@
 {% if site.goatcounter and jekyll.environment == "production" %}
 <script data-goatcounter="https://{{ site.goatcounter }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 <script>
-  // Count link clicks as GoatCounter events: papers, PDFs, videos, demo, CV, Scholar, LinkedIn, email.
-  // Event name = where the link goes; title = the entry it belongs to + the link text.
+  /* Count link clicks as GoatCounter events: papers, PDFs, videos, demo, CV, Scholar, LinkedIn, email.
+     Event name = where the link goes; title = the entry it belongs to + the link text.
+     Block comments only: the deployed HTML is minified onto one line. */
   document.addEventListener('click', function (e) {
     var a = e.target.closest && e.target.closest('a[href]');
     if (!a || !window.goatcounter || !window.goatcounter.count) return;
