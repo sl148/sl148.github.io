@@ -145,6 +145,9 @@ social:
 
 
 # Analytics
+# GoatCounter site code (https://<code>.goatcounter.com); empty disables
+goatcounter              : sl148
+
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
