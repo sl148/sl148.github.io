@@ -34,6 +34,26 @@
 <!-- Visitor counts (GoatCounter: cookie-free, no IPs stored); only on the deployed site -->
 {% if site.goatcounter and jekyll.environment == "production" %}
 <script data-goatcounter="https://{{ site.goatcounter }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+<script>
+  // Count link clicks as GoatCounter events: papers, PDFs, videos, demo, CV, Scholar, LinkedIn, email.
+  // Event name = where the link goes; title = the entry it belongs to + the link text.
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a[href]');
+    if (!a || !window.goatcounter || !window.goatcounter.count) return;
+    var href = a.getAttribute('href');
+    if (!href || href.charAt(0) === '#') return;
+    var name;
+    if (href.indexOf('mailto:') === 0) name = 'email';
+    else {
+      var u = new URL(a.href, location.href);
+      name = (u.host === location.host ? '' : u.host) + decodeURIComponent(u.pathname) + (u.host === 'www.youtube.com' ? u.search : '');
+    }
+    var entry = a.closest('.entry');
+    var where = entry && entry.querySelector('.entry-title') ? entry.querySelector('.entry-title').textContent.trim().slice(0, 60) : '';
+    var text = (a.textContent || a.getAttribute('aria-label') || '').trim().slice(0, 40);
+    window.goatcounter.count({ path: 'click: ' + name.slice(0, 120), title: (where ? where + ' · ' : '') + text, event: true });
+  });
+</script>
 {% endif %}
 
 <!-- end custom head snippets -->
