@@ -1,0 +1,23 @@
+source 'https://rubygems.org'
+
+# Local preview uses patched Jekyll/Liquid releases compatible with modern Ruby.
+# The deployment Gemfile retains the GitHub Pages dependency set.
+gem 'jekyll', '~> 3.10.0'
+gem 'liquid', '~> 4.0', '>= 4.0.4'
+gem 'webrick', '~> 1.8'
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
+gem 'logger'
+gem 'kramdown-parser-gfm'
+gem 'tzinfo-data', platforms: [:windows]
+
+group :jekyll_plugins do
+  gem 'jekyll-feed'
+  gem 'jekyll-gist'
+  gem 'jekyll-paginate'
+  gem 'jekyll-sitemap'
+  gem 'jekyll-redirect-from'
+  gem 'jekyll-default-layout'
+  gem 'jemoji'
+end

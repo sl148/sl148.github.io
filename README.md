@@ -17,6 +17,20 @@ See more info at https://academicpages.github.io/
 
 ## Running locally
 
+For this site, install Ruby and Bundler, then run
+`bundle install --gemfile=Gemfile.local` once. This preview bundle supports
+modern Ruby without changing the GitHub Pages deployment dependencies.
+Start the local preview with `npm run dev` and open <http://127.0.0.1:4001>.
+The server rebuilds and refreshes the browser when content or styles change;
+polling also supports files stored in OneDrive. Stop it with `Ctrl+C`.
+Restart after changing `_config.yml`. Run `npm run build` for a build check.
+No npm dependency installation is needed for these two commands.
+On Windows PowerShell, use `npm.cmd run dev` (or `npm.cmd run build`)
+if the execution policy blocks `npm.ps1`.
+
+The homepage content is in `_pages/about.md`; its styling is in
+`_sass/_homepage.scss`.
+
 When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
 1. Clone the repository and made updates as detailed above.

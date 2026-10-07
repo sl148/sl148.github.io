@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "👋 Scott (Seongwon) Lee"
-author_profile: false   # profile shown centred at the top (home-hero) instead of the left sidebar
+title: "Scott (Seongwon) Lee"
+author_profile: false   # profile shown in the home header
 redirect_from: 
   - /about/
   - /about.html
@@ -10,38 +10,33 @@ redirect_from:
 {% assign author = site.author %}
 <header class="home-hero">
   <img class="home-hero-photo" src="{{ author.avatar | prepend: '/images/' | relative_url }}" alt="{{ author.name }}">
-  <h1 class="home-hero-name">👋 {{ author.name }}</h1>
-  <p class="home-hero-bio">{{ author.bio }}</p>
+  <div class="home-hero-content">
+  <h1 class="home-hero-name">{{ author.name }}</h1>
+  <p class="home-hero-bio">Ph.D. Candidate &middot; Robotics<br>University of Illinois Urbana-Champaign</p>
   <ul class="home-hero-links">
     {% if author.email %}<li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>{% endif %}
     {% if author.googlescholar %}<li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a></li>{% endif %}
     {% if author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>{% endif %}
     {% for link in site.data.navigation.main %}{% if link.title == "Resume" %}<li><a href="{{ link.url | relative_url }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Resume</a></li>{% endif %}{% endfor %}
   </ul>
+  <p class="home-hero-availability"><mark>Open to full-time opportunities</mark> &middot; <a href="mailto:{{ author.email }}">Get in touch</a></p>
+  </div>
 </header>
 
-<!-- Interactive demo: a sticky card in the right margin on wide screens, a floating pill on narrow ones -->
 <aside class="demo-rail" aria-label="Interactive demo">
-  <a class="demo-rail-card" href="https://sl148.github.io/reconfigurable-factory-demo/">
-    <span class="demo-rail-badge">Interactive demo</span>
-    <img src="../images/reconfigurable_factory_demo.png" alt="Reconfigurable LEGO Factory demo">
-    <span class="demo-rail-title">Reconfigurable LEGO Factory</span>
-    <span class="demo-rail-text">Multi-robot task &amp; motion planning, live in your browser.</span>
-    <span class="demo-rail-button">Try the demo</span>
+  <a class="demo-shortcut" href="https://sl148.github.io/reconfigurable-factory-demo/">
+    <span class="demo-shortcut-label">Interactive demo <span aria-hidden="true">&#8599;</span></span>
+    <span class="demo-shortcut-title">Reconfigurable <span class="demo-lego-label">LEGO <svg class="demo-lego-brick" viewBox="0 0 24 18" aria-hidden="true" focusable="false"><path fill="#b32624" d="M2 7h20v9H2z"/><path fill="#e4443e" d="M2 7l4-3h16v9l-4 3V7z"/><path fill="#f05a50" d="M2 7l4-3h16l-4 3z"/><path fill="#cf3530" d="M5 2h5v4H5zm9 0h5v4h-5z"/><ellipse cx="7.5" cy="2" rx="2.5" ry="1.3" fill="#f36a60"/><ellipse cx="16.5" cy="2" rx="2.5" ry="1.3" fill="#f36a60"/></svg></span> Factory</span>
+    <picture class="demo-preview">
+      <source media="(prefers-reduced-motion: reduce)" srcset="{{ '/images/reconfigurable_factory_demo.png' | relative_url }}">
+      <img src="{{ '/images/workcell_clip.gif' | relative_url }}" alt="Robot arms assembling LEGO in a workcell">
+    </picture>
   </a>
 </aside>
-<a class="demo-fab" href="https://sl148.github.io/reconfigurable-factory-demo/" aria-label="Open the interactive demo">▶ Live demo</a>
 
 <div class="intro">
-  <ul class="intro-tags">
-    <li><span class="hash">#</span> Task and Motion Planning (TAMP)</li>
-    <li><span class="hash">#</span> Multi-Robot Systems</li>
-    <li><span class="hash">#</span> Agentic Systems</li>
-  </ul>
-  <p class="intro-callout"><strong>I am looking for full-time opportunities.</strong> Feel free to <a href="mailto:{{ site.author.email }}">reach out</a>!</p>
-  <p>I am a Ph.D. student in Mechanical Science and Engineering Department at the University of Illinois at Urbana-Champaign <img class="inline-logo" src="../images/uiuc_logo.png" alt="UIUC logo">, advised by Professor <a href="https://siebelschool.illinois.edu/about/people/all-faculty/namato">Nancy M. Amato</a>.</p>
-  <p>Previously, I was a Ph.D. Resident at <a href="https://x.company/">X, the Moonshot Factory</a> <img class="inline-logo" src="../images/moonshot.png" alt="X, the Moonshot Factory logo"> (formerly Google X), where I worked on a stealth project automating wet labs with robotics and multi-agent LLMs.</p>
-  <p>I received my bachelor’s degree in Mechanical Engineering under the guidance of Professor <a href="https://mlcs.yonsei.ac.kr/Professor.html">Jongeun Choi</a> from Yonsei University <img class="inline-logo" src="../images/yonsei_logo.png" alt="Yonsei University logo"> in Seoul, South Korea, in 2021.</p>
+  <p>I study <strong>task and motion planning, multi-robot systems, and agentic systems</strong> with <a href="https://siebelschool.illinois.edu/about/people/all-faculty/namato">Nancy M. Amato</a> at UIUC&nbsp;<img class="inline-logo" src="{{ '/images/uiuc_logo.png' | relative_url }}" alt="">.</p>
+  <p>Previously, as a Ph.D. Resident at <a href="https://x.company/">X, the Moonshot Factory</a>&nbsp;<img class="inline-logo" src="{{ '/images/moonshot.png' | relative_url }}" alt="">, I worked on wet-lab automation with robotics and multi-agent LLMs. I earned my bachelor&rsquo;s in Mechanical Engineering at Yonsei University&nbsp;<img class="inline-logo" src="{{ '/images/yonsei_logo.png' | relative_url }}" alt=""> (2021), advised by <a href="https://mlcs.yonsei.ac.kr/Professor.html">Jongeun Choi</a>.</p>
 </div>
 
 <!-- News
@@ -49,7 +44,7 @@ redirect_from:
 
 ## Research
 
-<div class="entries">
+<div class="entries entries--research">
   <!-- ### Lazy-DaSH -->
   <div class="entry">
     <div class="entry-thumb"><img src="../images/lazydash.gif" alt="Lazy-DaSH Image"></div>
@@ -135,16 +130,11 @@ redirect_from:
 <div class="entries">
   <!-- ### Reconfigurable LEGO Factory demo -->
   <div class="entry entry--featured">
-    <a class="entry-thumb" href="https://sl148.github.io/reconfigurable-factory-demo/"><img src="../images/reconfigurable_factory_demo.png" alt="Reconfigurable LEGO Factory demo"></a>
+    <a class="entry-thumb" href="https://sl148.github.io/reconfigurable-factory-demo/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="{{ '/images/reconfigurable_factory_demo.png' | relative_url }}"><img src="{{ '/images/workcell_clip.gif' | relative_url }}" alt="Reconfigurable LEGO Factory workcell demo"></picture></a>
     <div class="entry-body">
       <span class="entry-badge">Interactive demo</span>
       <div class="entry-title">Reconfigurable LEGO Factory: Interactive Web Demo</div>
-      <p class="entry-desc">An interactive 3D factory where multi-arm workcells assemble LEGO models while mobile manipulators fetch bricks, planned by a hierarchy of order assignment (MILP), multi-robot task planning (pddl-dash) and multi-arm motion planning (comotion). Configure a workcell's robot arms yourself, or watch the factory run with a live Gantt chart.</p>
-      <div class="entry-skills">
-        <span class="entry-skills-label">Skills</span>
-        <img src="../icons/python.png" alt="Python Icon">
-        <img src="../icons/c++.png" alt="C++ Icon">
-      </div>
+      <p class="entry-desc">An interactive 3D factory where multi-arm workcells assemble LEGO models while mobile manipulators fetch bricks, planned by a hierarchy of order assignment (MILP), multi-robot task planning and multi-arm motion planning. Configure a workcell's robot arms yourself, or watch the factory run with a live Gantt chart.</p>
       <div class="entry-meta">
         <a class="entry-cta" href="https://sl148.github.io/reconfigurable-factory-demo/">Try the Demo</a>
       </div>
