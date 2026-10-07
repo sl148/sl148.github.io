@@ -11,15 +11,15 @@ redirect_from:
 <header class="home-hero">
   <img class="home-hero-photo" src="{{ author.avatar | prepend: '/images/' | relative_url }}" alt="{{ author.name }}">
   <div class="home-hero-content">
-  <h1 class="home-hero-name">{{ author.name }}</h1>
-  <p class="home-hero-bio">Ph.D. Candidate &middot; Robotics<br>University of Illinois Urbana-Champaign</p>
-  <ul class="home-hero-links">
-    {% if author.email %}<li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>{% endif %}
-    {% if author.googlescholar %}<li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a></li>{% endif %}
-    {% if author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>{% endif %}
-    {% for link in site.data.navigation.main %}{% if link.title == "Resume" %}<li><a href="{{ link.url | relative_url }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Resume</a></li>{% endif %}{% endfor %}
-  </ul>
-  <p class="home-hero-availability"><mark>Open to full-time opportunities</mark> &middot; <a href="mailto:{{ author.email }}">Get in touch</a></p>
+    <h1 class="home-hero-name">{{ author.name }}</h1>
+    <p class="home-hero-bio">Ph.D. Candidate &middot; Robotics<br>University of Illinois Urbana-Champaign</p>
+    <ul class="home-hero-links">
+      {% if author.email %}<li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>{% endif %}
+      {% if author.googlescholar %}<li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a></li>{% endif %}
+      {% if author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>{% endif %}
+      {% for link in site.data.navigation.main %}{% if link.title == "Resume" %}<li><a href="{{ link.url | relative_url }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Resume</a></li>{% endif %}{% endfor %}
+    </ul>
+    <p class="home-hero-availability"><mark>Open to full-time opportunities</mark> &middot; <a href="mailto:{{ author.email }}">Get in touch</a></p>
   </div>
 </header>
 

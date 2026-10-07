@@ -61,17 +61,17 @@ body:has(.home-hero) {
 .home-hero {
   display: grid;
   font-weight: 300;
-  max-width: 66ch;
+  max-width: 72ch;
   margin-left: auto;
   margin-right: auto;
-  grid-template-columns: 168px minmax(0, 1fr);
+  grid-template-columns: 200px minmax(0, 1fr);
   gap: 1.75rem;
   align-items: center;
   margin-bottom: 2.75rem;
 
   .home-hero-photo {
-    width: 168px;
-    height: 184px;
+    width: 200px;
+    height: 220px;
     border-radius: 4px;
     object-fit: cover;
   }
@@ -80,7 +80,7 @@ body:has(.home-hero) {
 
   .home-hero-name {
     margin: 0 0 0.4rem;
-    font-size: 1.7rem;
+    font-size: 2rem;
     font-weight: 200;
     letter-spacing: -0.035em;
     line-height: 1.25;
@@ -90,7 +90,7 @@ body:has(.home-hero) {
   .home-hero-bio {
     margin: 0 0 0.7rem;
     color: $hp-muted;
-    font-size: 0.85rem;
+    font-size: 0.95rem;
     line-height: 1.55;
   }
 
@@ -101,14 +101,14 @@ body:has(.home-hero) {
     list-style: none;
     margin: 0;
     padding: 0;
-    li { margin: 0; font-size: 0.8rem; }
+    li { margin: 0; font-size: 0.9rem; }
     i { display: none; }
   }
 
   .home-hero-availability {
-    margin: 0.75rem 0 0;
+    margin: 0.65rem 0 0;
     color: $hp-ink;
-    font-size: 0.75rem;
+    font-size: 0.85rem;
     line-height: 1.5;
     mark {
       padding: 0 0.1em;
@@ -262,11 +262,16 @@ body:has(.home-hero) {
     padding-right: 20px;
   }
   .home-hero {
-    grid-template-columns: 120px minmax(0, 1fr);
+    width: 100%;
+    margin-left: 0;
+    grid-template-columns: 140px minmax(0, 1fr);
     gap: 1rem;
-    .home-hero-photo { width: 120px; height: 144px; }
-    .home-hero-name { font-size: 1.4rem; }
+    .home-hero-photo { width: 140px; height: 168px; }
+    .home-hero-name { font-size: 1.65rem; }
+    .home-hero-bio { font-size: 0.9rem; }
     .home-hero-links { gap: 0.25rem 0.75rem; }
+    .home-hero-links li { font-size: 0.85rem; }
+    .home-hero-availability { margin-top: 0.45rem; }
   }
   .entry { grid-template-columns: 1fr; gap: 0.85rem; }
   .entry-thumb { width: 100%; max-width: 280px; }
@@ -278,7 +283,7 @@ body:has(.home-hero) {
   .home-hero {
     grid-template-columns: 1fr;
     gap: 1rem;
-    .home-hero-photo { width: 144px; height: 160px; }
+    .home-hero-photo { width: 160px; height: 180px; }
   }
 }
 
