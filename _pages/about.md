@@ -158,7 +158,6 @@ redirect_from:
       <p class="entry-desc">A simulated wet lab run end to end: an LLM agent reads protocols and datasheets to set the lab's limits, labware and liquid prep, Bayesian optimization picks the next plates, a CP-SAT scheduler plans the robots, and PyLabRobot executes the pipetting. When the data looks wrong, the agent is called back, adds the missing limit and drops the spoiled plates. Watch the whole loop run: robots, schedule, agent decisions and the hunt for drug pairs that work better together.</p>
       <div class="entry-meta">
         <a class="entry-cta" href="https://sl148.github.io/closed-loop-lab-demo/">Try the Demo</a>
-        <span class="entry-links"><a href="https://github.com/sl148/closed-loop-lab-demo">Code</a></span>
       </div>
     </div>
   </div>
