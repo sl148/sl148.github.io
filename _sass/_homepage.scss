@@ -350,6 +350,7 @@ body:has(.home-hero) {
     top: 32px;
     flex-direction: column;
     gap: 12px;
+    > .demo-shortcut { flex: none; }  // stacked: each card keeps its own height
   }
 }
 
