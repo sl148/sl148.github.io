@@ -58,12 +58,12 @@ redirect_from:
   <div class="entry">
     <div class="entry-thumb"><img src="../images/lazydash.gif" alt="Lazy-DaSH Image"></div>
     <div class="entry-body">
-      <div class="entry-title">Lazy-DaSH: Lazy Approach of Hypergraph-based Multi-robot Task and Motion Planning</div>
+      <div class="entry-title">Lazy-DaSH: A Lazy Approach for Hypergraph-Based Multirobot Task and Motion Planning</div>
       <div class="entry-authors"><strong>Seongwon Lee</strong>, James Motes, Isaac Ngui, Marco Morales, Nancy M. Amato</div>
       <div class="entry-meta">
-        <a class="entry-venue" href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860">IEEE Transactions on Robotics (T-RO), 2026</a>
+        <a class="entry-venue" href="https://doi.org/10.1109/TRO.2026.3714647">IEEE Transactions on Robotics (T-RO), vol. 42, 2026</a>
         <span class="entry-links">
-          <a href="../files/lazy_hype_tro_arxiv.pdf">Paper</a>
+          <a href="https://doi.org/10.1109/TRO.2026.3714647">Paper</a>
           <a href="https://arxiv.org/abs/2504.05552">arXiv</a>
           <a href="../files/ICRA@40_poster.pdf">Poster</a>
           <a href="https://drive.google.com/file/d/1T53N-vW6U0LH1WA1w9WLaOhstgMNJTP8/view?usp=sharing">Simulation</a>
