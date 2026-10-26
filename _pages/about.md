@@ -23,7 +23,8 @@ redirect_from:
   </div>
 </header>
 
-<aside class="demo-rail" aria-label="Interactive demo">
+<aside class="demo-rail" aria-label="Interactive demos">
+  <div class="demo-stack">
   <a class="demo-shortcut" href="https://sl148.github.io/reconfigurable-factory-demo/">
     <span class="demo-shortcut-label">Interactive demo <span aria-hidden="true">&#8599;</span></span>
     <span class="demo-shortcut-title">Reconfigurable <span class="demo-lego-label">LEGO <svg class="demo-lego-brick" viewBox="0 0 24 18" aria-hidden="true" focusable="false"><path fill="#b32624" d="M2 7h20v9H2z"/><path fill="#e4443e" d="M2 7l4-3h16v9l-4 3V7z"/><path fill="#f05a50" d="M2 7l4-3h16l-4 3z"/><path fill="#cf3530" d="M5 2h5v4H5zm9 0h5v4h-5z"/><ellipse cx="7.5" cy="2" rx="2.5" ry="1.3" fill="#f36a60"/><ellipse cx="16.5" cy="2" rx="2.5" ry="1.3" fill="#f36a60"/></svg></span> Factory</span>
@@ -32,6 +33,14 @@ redirect_from:
       <img src="{{ '/images/workcell_clip.gif' | relative_url }}" alt="Robot arms assembling LEGO in a workcell">
     </picture>
   </a>
+  <a class="demo-shortcut" href="https://sl148.github.io/closed-loop-lab-demo/">
+    <span class="demo-shortcut-label">Interactive demo <span aria-hidden="true">&#8599;</span></span>
+    <span class="demo-shortcut-title">Agentic Lab Automation</span>
+    <picture class="demo-preview">
+      <img src="{{ '/images/closed_loop_lab_demo.png' | relative_url }}" alt="Agents, scheduler and robots running a simulated drug-screening lab">
+    </picture>
+  </a>
+  </div>
 </aside>
 
 <div class="intro">
@@ -137,6 +146,19 @@ redirect_from:
       <p class="entry-desc">An interactive 3D factory where multi-arm workcells assemble LEGO models while mobile manipulators fetch bricks, planned by a hierarchy of order assignment (MILP), multi-robot task planning and multi-arm motion planning. Configure a workcell's robot arms yourself, or watch the factory run with a live Gantt chart.</p>
       <div class="entry-meta">
         <a class="entry-cta" href="https://sl148.github.io/reconfigurable-factory-demo/">Try the Demo</a>
+      </div>
+    </div>
+  </div>
+  <!-- ### Agentic lab automation demo -->
+  <div class="entry entry--featured">
+    <a class="entry-thumb" href="https://sl148.github.io/closed-loop-lab-demo/"><img src="{{ '/images/closed_loop_lab_demo.png' | relative_url }}" alt="Agentic lab automation demo: robots, schedule and agents"></a>
+    <div class="entry-body">
+      <span class="entry-badge">Interactive demo</span>
+      <div class="entry-title">Agentic Lab Automation: Closed-Loop Drug-Combination Screening</div>
+      <p class="entry-desc">A simulated wet lab run end to end: an LLM agent reads protocols and datasheets to set the lab's limits, labware and liquid prep, Bayesian optimization picks the next plates, a CP-SAT scheduler plans the robots, and PyLabRobot executes the pipetting. When the data looks wrong, the agent is called back, adds the missing limit and drops the spoiled plates. Watch the whole loop run: robots, schedule, agent decisions and the hunt for drug pairs that work better together.</p>
+      <div class="entry-meta">
+        <a class="entry-cta" href="https://sl148.github.io/closed-loop-lab-demo/">Try the Demo</a>
+        <span class="entry-links"><a href="https://github.com/sl148/closed-loop-lab-demo">Code</a></span>
       </div>
     </div>
   </div>

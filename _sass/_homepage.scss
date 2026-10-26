@@ -321,6 +321,12 @@ body:has(.home-hero) {
   }
 }
 
+.demo-stack {
+  display: flex;
+  gap: 8px;
+  > .demo-shortcut { flex: 1 1 0; min-width: 0; }
+}
+
 .demo-preview {
   display: block;
   width: 100%;
@@ -339,9 +345,11 @@ body:has(.home-hero) {
     width: 180px;
     margin: 0 0 0 24px;
   }
-  .page__content a.demo-shortcut {
+  .demo-stack {
     position: sticky;
     top: 32px;
+    flex-direction: column;
+    gap: 12px;
   }
 }
 
