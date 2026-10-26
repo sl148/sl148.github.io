@@ -77,7 +77,7 @@ redirect_from:
     <div class="entry-thumb"><img src="../images/Task_assignment.png" alt="Reconfigurable Factory Image"></div>
     <div class="entry-body">
       <div class="entry-title">A Hierarchical Approach to Workstation-based Task Allocation and Motion Planning</div>
-      <div class="entry-authors"><strong>Seongwon Lee</strong>, James Motes, Isaac Ngui, Marco Morales, Nancy M. Amato</div>
+      <div class="entry-authors">Isaac Ngui, <strong>Seongwon Lee</strong>, James Motes, Marco Morales, Nancy M. Amato</div>
       <div class="entry-meta">
         <a class="entry-venue" href="https://ieee-iros.org/">IROS 2023 Workshop</a>
         <span class="entry-links">
