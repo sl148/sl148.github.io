@@ -65,9 +65,9 @@ redirect_from:
         <span class="entry-links">
           <a href="https://doi.org/10.1109/TRO.2026.3714647">Paper</a>
           <a href="https://arxiv.org/abs/2504.05552">arXiv</a>
+          <a href="https://parasollab.github.io/research-pages/lazy-dash/">Project page</a>
+          <a href="https://github.com/parasollab/lazy-dash">Code</a>
           <a href="../files/ICRA@40_poster.pdf">Poster</a>
-          <a href="https://drive.google.com/file/d/1T53N-vW6U0LH1WA1w9WLaOhstgMNJTP8/view?usp=sharing">Simulation</a>
-          <a href="https://drive.google.com/file/d/1fAJ8TNFg8BKuut13hG3sdsWv_wC8lJcw/view?usp=sharing">Hardware Exp.</a>
         </span>
       </div>
     </div>
