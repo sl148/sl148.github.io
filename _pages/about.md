@@ -63,10 +63,10 @@ redirect_from:
       <div class="entry-meta">
         <a class="entry-venue" href="https://doi.org/10.1109/TRO.2026.3714647">IEEE Transactions on Robotics (T-RO), vol. 42, 2026</a>
         <span class="entry-links">
-          <a href="https://doi.org/10.1109/TRO.2026.3714647">Paper</a>
-          <a href="https://arxiv.org/abs/2504.05552">arXiv</a>
           <a href="https://parasollab.github.io/research-pages/lazy-dash/">Project page</a>
           <a href="https://github.com/parasollab/lazy-dash">Code</a>
+          <a href="https://doi.org/10.1109/TRO.2026.3714647">Paper</a>
+          <a href="https://arxiv.org/abs/2504.05552">arXiv</a>
           <a href="../files/ICRA@40_poster.pdf">Poster</a>
         </span>
       </div>
