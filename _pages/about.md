@@ -161,6 +161,18 @@ redirect_from:
       </div>
     </div>
   </div>
+  <!-- ### Liquid Class Bench demo -->
+  <div class="entry entry--featured">
+    <a class="entry-thumb" href="https://sl148.github.io/liquid-class-bench/"><img src="{{ '/images/liquid_class_bench_demo.png' | relative_url }}" alt="Liquid Class Bench: simulated pipette tip, pressure trace and error breakdown"></a>
+    <div class="entry-body">
+      <span class="entry-badge">Interactive demo &middot; in development</span>
+      <div class="entry-title">Liquid Class Bench: Simulated Pipetting Physics</div>
+      <p class="entry-desc">A physics model of an air-displacement pipette that runs in the browser. Watch a transfer, see where volume is lost (lag, wall film, hanging drop), and search for the fastest aspirate, dispense and blowout settings that stay accurate for water, DMSO or viscous glycerol.</p>
+      <div class="entry-meta">
+        <a class="entry-cta" href="https://sl148.github.io/liquid-class-bench/">Try the Demo</a>
+      </div>
+    </div>
+  </div>
   <!-- ### Driving -->
   <div class="entry">
     <div class="entry-thumb"><img src="../images/MiV.gif" alt="Quadrotor Image"></div>
